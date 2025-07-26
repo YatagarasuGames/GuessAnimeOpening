@@ -1,0 +1,2061 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4645132edefd4c74968a0c941a98fb89, type: 3}
+  m_Name: OpeningsDB
+  m_EditorClassIdentifier: 
+  _items:
+  - Clip: {fileID: 8300000, guid: 0014743a67fc36a4cb33fb5d2e56c24e, type: 3}
+    Key: Assets/Songs/Songs/To.Aru.Kagaku.no.Railgun.OP1(BD.1080p.FLAC).mp3
+    FolderPath: Songs\Songs\
+    Name: To.Aru.Kagaku.no.Railgun.OP1(BD.1080p.FLAC).mp3
+    Preload: 0
+    _id: d0a29592-09bc-4915-b29d-19885cc33d44
+  - Clip: {fileID: 8300000, guid: 00486998ce67d9d43a3d438fe994b2fa, type: 3}
+    Key: Assets/Songs/Songs/GOBLIN SLAYER II - Opening _ Entertainment.mp3
+    FolderPath: Songs\Songs\
+    Name: GOBLIN SLAYER II - Opening _ Entertainment.mp3
+    Preload: 0
+    _id: aea53a06-2e41-4957-a4d1-eeb74ee20aae
+  - Clip: {fileID: 8300000, guid: 100b012a47a96754ab5ba33995d42d22, type: 3}
+    Key: Assets/Songs/Songs/Overlord II - Opening _ Go Cry Go.mp3
+    FolderPath: Songs\Songs\
+    Name: Overlord II - Opening _ Go Cry Go.mp3
+    Preload: 0
+    _id: 95b87be2-fdba-4575-bc4b-f2d31e6a3e2e
+  - Clip: {fileID: 8300000, guid: 40a12453097517a4181eacb5dd0d48dc, type: 3}
+    Key: Assets/Songs/Songs/Date A Live III - Opening _ I Swear.mp3
+    FolderPath: Songs\Songs\
+    Name: Date A Live III - Opening _ I Swear.mp3
+    Preload: 0
+    _id: 337c1a6c-a014-46ad-80c0-da97a8ff99f4
+  - Clip: {fileID: 8300000, guid: 40188288565652b41af6cbf8db9de4d6, type: 3}
+    Key: Assets/Songs/Songs/Steins Gate 0   opening 2 [HD].mp3
+    FolderPath: Songs\Songs\
+    Name: Steins Gate 0   opening 2 [HD].mp3
+    Preload: 0
+    _id: cc0a7f34-420e-424c-9980-15f270ee1b3b
+  - Clip: {fileID: 8300000, guid: 50d8b12178aec38419d7cc0b32f050da, type: 3}
+    Key: Assets/Songs/Songs/[Second] Naruto Shippuden - Ending 10 _ My Answer.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Naruto Shippuden - Ending 10 _ My Answer.mp3'
+    Preload: 0
+    _id: 2b7587b2-fefb-4fed-b58d-e3def4ae1f92
+  - Clip: {fileID: 8300000, guid: 600006fc43a122a479f9aca4421d15e1, type: 3}
+    Key: Assets/Songs/Songs/Arifureta_ From Commonplace to World's Strongest Season
+      2 - Opening _ Daylight.mp3
+    FolderPath: Songs\Songs\
+    Name: Arifureta_ From Commonplace to World's Strongest Season 2 - Opening _ Daylight.mp3
+    Preload: 0
+    _id: ab85786a-971e-4047-99ea-5144854d7a1e
+  - Clip: {fileID: 8300000, guid: 60845636c60dd4945b06b379833f37cb, type: 3}
+    Key: Assets/Songs/Songs/Uncle From Another World OP _ story - Mayu Maeshima _
+      Netflix Anime.mp3
+    FolderPath: Songs\Songs\
+    Name: Uncle From Another World OP _ story - Mayu Maeshima _ Netflix Anime.mp3
+    Preload: 0
+    _id: 41c02fda-627a-4360-8fd3-609ef5fd6aa7
+  - Clip: {fileID: 8300000, guid: 60268d49507aefa40930fbd9cab36714, type: 3}
+    Key: Assets/Songs/Songs/Tokyo Revengers - Opening _ Cry Baby.mp3
+    FolderPath: Songs\Songs\
+    Name: Tokyo Revengers - Opening _ Cry Baby.mp3
+    Preload: 0
+    _id: 7c9402ab-6f85-4e6f-9e7f-81c88d35eb76
+  - Clip: {fileID: 8300000, guid: 700e26f0e6f2f7a4d9a3d58bfb1ff50e, type: 3}
+    Key: "Assets/Songs/Songs/\u300Cstaple stable\u300D- Bakemonogatari OP 1 _ Hitagi
+      Crab _ English Sub.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300Cstaple stable\u300D- Bakemonogatari OP 1 _ Hitagi Crab _ English
+      Sub.mp3"
+    Preload: 0
+    _id: ede33965-decf-4962-be8e-5090421aa7d1
+  - Clip: {fileID: 8300000, guid: 807a705bc4d72e743a6007b60d581a83, type: 3}
+    Key: Assets/Songs/Songs/Bleach - Opening 13 _ 4K _ 60FPS _ Creditless _ unofficial.mp3
+    FolderPath: Songs\Songs\
+    Name: Bleach - Opening 13 _ 4K _ 60FPS _ Creditless _ unofficial.mp3
+    Preload: 0
+    _id: fea4c8c9-7ce6-41f4-9735-8da908a45e9d
+  - Clip: {fileID: 8300000, guid: 908038ced830cd04882d5b068efd7e5f, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO - Starting Life in Another World - Opening _
+      Redo.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO - Starting Life in Another World - Opening _ Redo.mp3
+    Preload: 0
+    _id: 72b96b04-afc5-425a-b3dd-c638fb48a6c0
+  - Clip: {fileID: 8300000, guid: a0074e976c93a46439ca07e922e4ddad, type: 3}
+    Key: Assets/Songs/Songs/Eromanga Sensei - Ending HD.mp3
+    FolderPath: Songs\Songs\
+    Name: Eromanga Sensei - Ending HD.mp3
+    Preload: 0
+    _id: f9646c4d-5ddf-4387-b313-e66137552521
+  - Clip: {fileID: 8300000, guid: b06561e0b17cb0a4f874f455e0073298, type: 3}
+    Key: Assets/Songs/Songs/Tokyo Ghoul - Opening _ Unravel.mp3
+    FolderPath: Songs\Songs\
+    Name: Tokyo Ghoul - Opening _ Unravel.mp3
+    Preload: 0
+    _id: aef36d22-ee3b-42f6-b04d-31319d6dafc9
+  - Clip: {fileID: 8300000, guid: c0a08e2e496b47c448d2b40e6f335a8e, type: 3}
+    Key: Assets/Songs/Songs/Qualidea Code ~ Opening 2 [HD].mp3
+    FolderPath: Songs\Songs\
+    Name: Qualidea Code ~ Opening 2 [HD].mp3
+    Preload: 0
+    _id: d10136d8-ad56-4389-93a8-0ebaa73c326f
+  - Clip: {fileID: 8300000, guid: d0f38fcc7f0c985469914cd6de5b44d7, type: 3}
+    Key: Assets/Songs/Songs/Steins;Gate Opening (version 2) [HD].mp3
+    FolderPath: Songs\Songs\
+    Name: Steins;Gate Opening (version 2) [HD].mp3
+    Preload: 0
+    _id: 6d93a115-0375-445a-9065-5e51d4ba8519
+  - Clip: {fileID: 8300000, guid: e040b55dfd9e9854b8ba49fd4ad28df7, type: 3}
+    Key: Assets/Songs/Songs/[Second] Made in Abyss S2 - Opening _ Katachi.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Made in Abyss S2 - Opening _ Katachi.mp3'
+    Preload: 0
+    _id: 729608d9-adc5-44ca-b764-6280077473ff
+  - Clip: {fileID: 8300000, guid: e03cf4a00a88b0d4d9044bd07fefaca8, type: 3}
+    Key: Assets/Songs/Songs/The Rising of the Shield Hero - Ending _ Kimi no Namae.mp3
+    FolderPath: Songs\Songs\
+    Name: The Rising of the Shield Hero - Ending _ Kimi no Namae.mp3
+    Preload: 0
+    _id: c553acde-b04a-4ea0-85bd-4778ddd555bd
+  - Clip: {fileID: 8300000, guid: e04c303a781d7ed469ed5a6e52f04f77, type: 3}
+    Key: Assets/Sounds/ButtonClick.mp3
+    FolderPath: Sounds\
+    Name: ButtonClick.mp3
+    Preload: 0
+    _id: 87de18b4-6369-4d37-a7e3-17b0a0871394
+  - Clip: {fileID: 8300000, guid: f01b6ddb0ae61a34cbd759ac53cdf3f7, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kuroko's Basketball - Ending 4 _ FANTASTIC TUNE.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kuroko''s Basketball - Ending 4 _ FANTASTIC TUNE.mp3'
+    Preload: 0
+    _id: d305610a-679b-49ac-8437-b392c3265315
+  - Clip: {fileID: 8300000, guid: f09d9a3da1fae3d4593cb5065e90db7b, type: 3}
+    Key: Assets/Songs/Songs/Nanatsu no Taizai Season 3 Ending 2 [Good Day] (Full
+      HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Nanatsu no Taizai Season 3 Ending 2 [Good Day] (Full HD).mp3
+    Preload: 0
+    _id: 06b94f70-f5e1-4b74-bc23-cb0888545ca8
+  - Clip: {fileID: 8300000, guid: 01de5fb78392da448a807fc887d065c1, type: 3}
+    Key: "Assets/Songs/Songs/[Second] Hyouka \u2013 Opening Theme \u2013 Yasashisa
+      no Riyuu.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] Hyouka \u2013 Opening Theme \u2013 Yasashisa no Riyuu.mp3"
+    Preload: 0
+    _id: 3690b9ae-ab58-4969-894a-b79cbe2eee86
+  - Clip: {fileID: 8300000, guid: 111e41b5d827cdb4696c88b90f7e2b9d, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Season 2 - Ending
+      _ Memento.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Season 2 - Ending _ Memento.mp3
+    Preload: 0
+    _id: bbab3148-aac5-4763-9f2c-41fdbd75b6c3
+  - Clip: {fileID: 8300000, guid: 118e2e3e310f99649b90aef3a1ae198a, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 10 v2 [4K 60FPS _
+      Creditless _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 10 v2 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 0d25d0c5-c6b0-44eb-9437-228ebbe93a96
+  - Clip: {fileID: 8300000, guid: 21b140ca0ad01714ab0a3952b23d2751, type: 3}
+    Key: "Assets/Songs/Songs/Tokyo Ghoul \u221AA - Ending _ Kisetsu wa Tsugitsugi
+      Shinde Iku.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Tokyo Ghoul \u221AA - Ending _ Kisetsu wa Tsugitsugi Shinde Iku.mp3"
+    Preload: 0
+    _id: 7b589e05-2a39-4c00-b4c9-df67a2147eda
+  - Clip: {fileID: 8300000, guid: 219234818a4430e4e83af4c2279ef5a4, type: 3}
+    Key: Assets/Songs/Songs/[Second] BTOOOM! - Opening VO.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] BTOOOM! - Opening VO.mp3'
+    Preload: 0
+    _id: 8772541d-c167-4ebc-b348-c9ccde5db075
+  - Clip: {fileID: 8300000, guid: 213b9a8ba6f165f49b834b46085c0112, type: 3}
+    Key: Assets/Songs/Songs/KonoSuba - Opening 2 [4K 60FPS _ Creditless _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: KonoSuba - Opening 2 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: be8e86d9-63ac-4d48-b6c5-b01e74b8502b
+  - Clip: {fileID: 8300000, guid: 219c43336710d54468d5d281185c0654, type: 3}
+    Key: Assets/Songs/Songs/That Time I Got Reincarnated as a Slime Season 2 - Opening
+      2 _ Like Flames.mp3
+    FolderPath: Songs\Songs\
+    Name: That Time I Got Reincarnated as a Slime Season 2 - Opening 2 _ Like Flames.mp3
+    Preload: 0
+    _id: 0b95fe04-b605-4591-a28f-f8dc119a44fd
+  - Clip: {fileID: 8300000, guid: 31382a6cbfb912f419fed1f9152d10b7, type: 3}
+    Key: Assets/Songs/Songs/The Rising of the Shield Hero - Opening 2 (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: The Rising of the Shield Hero - Opening 2 (HD).mp3
+    Preload: 0
+    _id: e9b454c4-be73-4d91-bf55-ffb670f62dc7
+  - Clip: {fileID: 8300000, guid: 31ee385b47f32b2408de9e4da9beddde, type: 3}
+    Key: Assets/Songs/Songs/Akame ga Kill! - Opening 2 _ Liar Mask.mp3
+    FolderPath: Songs\Songs\
+    Name: Akame ga Kill! - Opening 2 _ Liar Mask.mp3
+    Preload: 0
+    _id: f388310b-2dce-43e8-b978-048be8355852
+  - Clip: {fileID: 8300000, guid: 41377a9c8752fa4408401c218e0de796, type: 3}
+    Key: Assets/Songs/Songs/[Second] Saga of Tanya the Evil - Ending _ Los! Los!
+      Los!.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Saga of Tanya the Evil - Ending _ Los! Los! Los!.mp3'
+    Preload: 0
+    _id: ad32abbb-1628-41b6-ad0b-c07a4dd24588
+  - Clip: {fileID: 8300000, guid: 61643ab8c373e514faa22c7b76ef5dba, type: 3}
+    Key: "Assets/Songs/Songs/How Not to Summon a Demon Lord \u03A9 - Opening _ EVERYBODY!
+      EVERYBODY!.mp3"
+    FolderPath: Songs\Songs\
+    Name: "How Not to Summon a Demon Lord \u03A9 - Opening _ EVERYBODY! EVERYBODY!.mp3"
+    Preload: 0
+    _id: e666c8cc-00a8-4102-ab52-8e33e1916226
+  - Clip: {fileID: 8300000, guid: 616ce19f350d3c04792506355f8f0049, type: 3}
+    Key: "Assets/Songs/Songs/Vicke Blanka - Black Catcher (Anime music video, TV
+      anime\u300CBlack Clover\u300DOP10 Theme).mp3"
+    FolderPath: Songs\Songs\
+    Name: "Vicke Blanka - Black Catcher (Anime music video, TV anime\u300CBlack Clover\u300DOP10
+      Theme).mp3"
+    Preload: 0
+    _id: ffc5f925-3879-4d34-8c0c-250e1e3fd405
+  - Clip: {fileID: 8300000, guid: 614d82bae0aba824089a146cf0d60dcd, type: 3}
+    Key: Assets/Songs/Songs/[Second] The Devil is a Part-Timer Season 2 - Opening
+      _ Hikari no Nai Machi.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] The Devil is a Part-Timer Season 2 - Opening _ Hikari no Nai
+      Machi.mp3'
+    Preload: 0
+    _id: 99a30407-9b47-426e-82b8-4b0a20756669
+  - Clip: {fileID: 8300000, guid: 615f2e73f35a93948b08130ad3c02217, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kuroko no Basket Opening 7 Memories [1080p].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kuroko no Basket Opening 7 Memories [1080p].mp3'
+    Preload: 0
+    _id: 2a9267a5-aba8-40b8-9260-5339873dbc46
+  - Clip: {fileID: 8300000, guid: 81f2410bcdafdcc45b542cdc47c21df4, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 2 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 2 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 9ef74f1b-b907-4d1e-9b23-e8fa1da3dcf9
+  - Clip: {fileID: 8300000, guid: 81ca1a9e1c1dd994691c786edb5f5522, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF1F\uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u6620\u50CF
+      \u266A\u798F\u539F \u9065\u300C\u98A8\u306B\u5439\u304B\u308C\u3066\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF1F\uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\u6620\u50CF
+      \u266A\u798F\u539F \u9065\u300C\u98A8\u306B\u5439\u304B\u308C\u3066\u300D.mp3"
+    Preload: 0
+    _id: 4a19c12b-0d59-4fdc-9070-00a17c2840a1
+  - Clip: {fileID: 8300000, guid: 91d17acb1f07df543852f1ceef7622e7, type: 3}
+    Key: "Assets/Songs/Songs/[Second] Sakurasou no Pet na Kanojo Opening 1 - (Kimi
+      ga Yume wo Tsuretekita (\u541B\u304C\u5922\u3092\u9023\u308C\u3066\u304D\u305F).mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] Sakurasou no Pet na Kanojo Opening 1 - (Kimi ga Yume wo Tsuretekita
+      (\u541B\u304C\u5922\u3092\u9023\u308C\u3066\u304D\u305F).mp3"
+    Preload: 0
+    _id: 4f9df4b0-0cdb-4286-b01a-17c7c2447d17
+  - Clip: {fileID: 8300000, guid: 91a8034332908bd4296de9a5ce396f26, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300C\u9032\u6483\u306E\u5DE8\u4EBA\u300DThe
+      Final Season\u5B8C\u7D50\u7DE8(\u524D\u7DE8)\u4E3B\u984C\u6B4C\u300EUNDER THE
+      TREE\u300F\u30A2\u30CB\u30E1\u30B9\u30DA\u30B7\u30E3\u30EB\u6620\u50CF\uFF5CSiM.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300C\u9032\u6483\u306E\u5DE8\u4EBA\u300DThe Final
+      Season\u5B8C\u7D50\u7DE8(\u524D\u7DE8)\u4E3B\u984C\u6B4C\u300EUNDER THE TREE\u300F\u30A2\u30CB\u30E1\u30B9\u30DA\u30B7\u30E3\u30EB\u6620\u50CF\uFF5CSiM.mp3"
+    Preload: 0
+    _id: 2f543549-552c-4524-b7b9-a5f35683c9f9
+  - Clip: {fileID: 8300000, guid: 917f49a7c82f13d419fa5c2655c98ddf, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DOne Punch Man OP - Opening 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DOne Punch Man OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: e6307778-ae59-45ad-b39c-0da7f96d7ffc
+  - Clip: {fileID: 8300000, guid: b1cc703646640934da48c5ba83d02683, type: 3}
+    Key: "Assets/Songs/Songs/Assassination Classroom \u2013 Opening Theme 2 \u2013
+      Jiriki Hongan Revolution.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Assassination Classroom \u2013 Opening Theme 2 \u2013 Jiriki Hongan Revolution.mp3"
+    Preload: 0
+    _id: 6917b5ed-0c45-4b80-a2b6-758f97c8fd8b
+  - Clip: {fileID: 8300000, guid: f1101cd1d3bd9004eb854549e86b2303, type: 3}
+    Key: "Assets/Songs/Songs/Hello Alone - \u96EA\u30CE\u4E0B\u96EA\u4E43&\u7531\u6BD4\u30F6\u6D5C\u7D50\u8863.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Hello Alone - \u96EA\u30CE\u4E0B\u96EA\u4E43&\u7531\u6BD4\u30F6\u6D5C\u7D50\u8863.mp3"
+    Preload: 0
+    _id: b413200c-0a24-481f-96aa-834da9c3e46a
+  - Clip: {fileID: 8300000, guid: f1a422e63de5ba0489bac5e0a42511cd, type: 3}
+    Key: Assets/Songs/Songs/Kimetsu no Yaiba _ Opening 1 - Gurenge _ 4K Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Kimetsu no Yaiba _ Opening 1 - Gurenge _ 4K Creditless.mp3
+    Preload: 0
+    _id: b8edb81d-019c-4e41-b34a-eacd1fd59835
+  - Clip: {fileID: 8300000, guid: 023524a2587dd9747907f439a8776aa3, type: 3}
+    Key: Assets/Songs/Songs/Date A Live OP1 - AMV (Verison Full).mp3
+    FolderPath: Songs\Songs\
+    Name: Date A Live OP1 - AMV (Verison Full).mp3
+    Preload: 0
+    _id: 0ed75e8b-fecc-4adc-a808-af0d0dbb10b3
+  - Clip: {fileID: 8300000, guid: 023717dd9ef47254eb8c5d69890035a3, type: 3}
+    Key: Assets/Songs/Songs/[Second] Tomo-chan Is a Girl! - Opening _ Kurae! Telepathy.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Tomo-chan Is a Girl! - Opening _ Kurae! Telepathy.mp3'
+    Preload: 0
+    _id: ea1d0f84-53a2-406c-a71f-b05a9b66006d
+  - Clip: {fileID: 8300000, guid: 02990f4b7561d6147814166e9caf635e, type: 3}
+    Key: Assets/Songs/Songs/Welcome to Demon School! Iruma-kun Season 2 - Opening
+      _ No! No! Satisfaction!.mp3
+    FolderPath: Songs\Songs\
+    Name: Welcome to Demon School! Iruma-kun Season 2 - Opening _ No! No! Satisfaction!.mp3
+    Preload: 0
+    _id: 4b95308a-fe37-4777-857e-359ee24cbda6
+  - Clip: {fileID: 8300000, guid: 22d1dd7780d5cfe4686c24496873eea6, type: 3}
+    Key: Assets/Songs/Songs/[Second] Gintama Opening 19 _ VS (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Gintama Opening 19 _ VS (HD).mp3'
+    Preload: 0
+    _id: fe01e3ab-d204-4d64-800d-bc6cbc5edb06
+  - Clip: {fileID: 8300000, guid: 2234d01a6c94f504d885ca0b59b10cf2, type: 3}
+    Key: "Assets/Songs/Songs/Ansatsu Kyoushitsu_ Season 2 Ending\u300EKaketa tsuki\u300Fby
+      Shion Miyawaki.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Ansatsu Kyoushitsu_ Season 2 Ending\u300EKaketa tsuki\u300Fby Shion Miyawaki.mp3"
+    Preload: 0
+    _id: a1f14bcf-f0e6-4e23-97d0-b923eb790cea
+  - Clip: {fileID: 8300000, guid: 227d7aa175651fd44ae176f65a66823d, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 5 v1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 5 v1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 973aba8f-6db3-4563-8658-dc833c82e7eb
+  - Clip: {fileID: 8300000, guid: 32d5d3d39a1f32e469d87174a731b6e2, type: 3}
+    Key: Assets/Songs/Songs/[Second] Angels of Death - Opening (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Angels of Death - Opening (HD).mp3'
+    Preload: 0
+    _id: 51b896c1-a66e-47ab-8bc6-c9916c5ca3ab
+  - Clip: {fileID: 8300000, guid: 42c88bc6046242b468f817fac2f2a58a, type: 3}
+    Key: Assets/Songs/Songs/No Game No Life - Opening _ This Game.mp3
+    FolderPath: Songs\Songs\
+    Name: No Game No Life - Opening _ This Game.mp3
+    Preload: 0
+    _id: 70ed1cba-3fb1-4f53-9a3c-24c71e479d37
+  - Clip: {fileID: 8300000, guid: 52ddc173334ef6741b1655cc919a1afc, type: 3}
+    Key: Assets/Songs/Songs/Mob Psycho 100 II - Opening _ 99.9.mp3
+    FolderPath: Songs\Songs\
+    Name: Mob Psycho 100 II - Opening _ 99.9.mp3
+    Preload: 0
+    _id: 86cbab40-bcbb-4c51-bf5d-9bf56476891b
+  - Clip: {fileID: 8300000, guid: 62a838ca41cbdb84da3fea02206f9479, type: 3}
+    Key: "Assets/Songs/Songs/[Second] \u300CCreditless\u300DGuilty Crown OP - Opening
+      1\u300CUHD 60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] \u300CCreditless\u300DGuilty Crown OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: a5e95707-8306-4088-a4c3-0afa901c75d6
+  - Clip: {fileID: 8300000, guid: 629f49b83947104469814704e9852e7f, type: 3}
+    Key: Assets/Songs/Songs/[Second] The Pet Girl of Sakurasou Opening 2 HD.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] The Pet Girl of Sakurasou Opening 2 HD.mp3'
+    Preload: 0
+    _id: d620f959-0436-4666-941b-5552df1cd6a7
+  - Clip: {fileID: 8300000, guid: 722338a722c86194285f2093798a2149, type: 3}
+    Key: Assets/Songs/Songs/Black Clover - Opening 7 _ JUSTadICE.mp3
+    FolderPath: Songs\Songs\
+    Name: Black Clover - Opening 7 _ JUSTadICE.mp3
+    Preload: 0
+    _id: 71b84ac4-1372-45e2-aa97-abd86e3201f6
+  - Clip: {fileID: 8300000, guid: 725eb2710d12c734fb39a3a9d25bf8b4, type: 3}
+    Key: Assets/Songs/Songs/[Second] Orange Opening.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Orange Opening.mp3'
+    Preload: 0
+    _id: 13f33e2f-1e59-467d-9c57-0144ebc46f16
+  - Clip: {fileID: 8300000, guid: 92715f5cbbc3aea4690fbb0802d56427, type: 3}
+    Key: Assets/Songs/Songs/The Angel Next Door Spoils Me Rotten - Opening _ GIFT.mp3
+    FolderPath: Songs\Songs\
+    Name: The Angel Next Door Spoils Me Rotten - Opening _ GIFT.mp3
+    Preload: 0
+    _id: 9bb1091a-7d57-4672-baa9-d20f14a58e23
+  - Clip: {fileID: 8300000, guid: 9284255a56dc72643b2adce5f78ab2cf, type: 3}
+    Key: Assets/Songs/Songs/[Second] wotakoi.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] wotakoi.mp3'
+    Preload: 0
+    _id: b5efb3e0-d5b0-4b20-a635-b66a3df11d47
+  - Clip: {fileID: 8300000, guid: 92b4a04dee6f4184d8220442396caec9, type: 3}
+    Key: "Assets/Songs/Songs/[Second] Lucky Star ~ Opening HD \u3010 Creditless \u3011.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] Lucky Star ~ Opening HD \u3010 Creditless \u3011.mp3"
+    Preload: 0
+    _id: c1caaf35-b063-474f-856f-dfb170848285
+  - Clip: {fileID: 8300000, guid: a29b2e5daf9748a46ba3d39951e36fe0, type: 3}
+    Key: Assets/Songs/Songs/Ao no Exorcist Openings 1-3 ALL [1080p60FPS].mp3
+    FolderPath: Songs\Songs\
+    Name: Ao no Exorcist Openings 1-3 ALL [1080p60FPS].mp3
+    Preload: 0
+    _id: dc881a33-9296-4145-86c3-612bd924b380
+  - Clip: {fileID: 8300000, guid: b2380ac4c647cf24895c47866f48e14a, type: 3}
+    Key: "Assets/Songs/Songs/[AMV] Kimi no Na wa. (Your Name.) OP_ \u201CYumetourou
+      (Dream Lantern)\u201D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[AMV] Kimi no Na wa. (Your Name.) OP_ \u201CYumetourou (Dream Lantern)\u201D.mp3"
+    Preload: 0
+    _id: 458c556e-1454-4a22-869f-af3ef789a46b
+  - Clip: {fileID: 8300000, guid: b2a83ab52ad114f429e5e8b6c6b6d7bb, type: 3}
+    Key: Assets/Songs/Songs/The Rising of the Shield Hero - Opening 1 (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: The Rising of the Shield Hero - Opening 1 (HD).mp3
+    Preload: 0
+    _id: 4d5ddcba-0096-431a-8a89-954bdae4e700
+  - Clip: {fileID: 8300000, guid: b299e59d0f05a834fbe349fad3523dbc, type: 3}
+    Key: Assets/Songs/Songs/stop be a hero.mp3
+    FolderPath: Songs\Songs\
+    Name: stop be a hero.mp3
+    Preload: 0
+    _id: 7776b3d9-6c8f-4f5e-aba8-895a52cc9bd5
+  - Clip: {fileID: 8300000, guid: b27d449193bc7654faf880844556ae1c, type: 3}
+    Key: Assets/Songs/Songs/FAIRY TAIL _ All Openings (1-26).mp3
+    FolderPath: Songs\Songs\
+    Name: FAIRY TAIL _ All Openings (1-26).mp3
+    Preload: 0
+    _id: 8b5a29b2-70fd-4f8d-b244-9baeac806e7e
+  - Clip: {fileID: 8300000, guid: c2f38a9c33f69be45a38421c1b89ed8b, type: 3}
+    Key: Assets/Songs/Songs/[Second] The God of High School - Ending _ WIN.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] The God of High School - Ending _ WIN.mp3'
+    Preload: 0
+    _id: 0399d53c-f5d1-4372-ba87-7ba9950117d0
+  - Clip: {fileID: 8300000, guid: c2b5f163ba4eef7469e1ddbd6afafa38, type: 3}
+    Key: Assets/Songs/Songs/[Second] Dragon Ball Super Opening 2 (Japanese).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Dragon Ball Super Opening 2 (Japanese).mp3'
+    Preload: 0
+    _id: 0f02e6db-2ff4-466b-9d59-424e87e7ee89
+  - Clip: {fileID: 8300000, guid: c29ce3729db54f640aae107e765f9a32, type: 3}
+    Key: Assets/Songs/Songs/Tokyo Ghoul - Ending _ Saints.mp3
+    FolderPath: Songs\Songs\
+    Name: Tokyo Ghoul - Ending _ Saints.mp3
+    Preload: 0
+    _id: ccb95e05-df87-4a8d-8224-494b3d32b44f
+  - Clip: {fileID: 8300000, guid: c22dd1659a90768448f7d42bb3c35468, type: 3}
+    Key: "Assets/Songs/Songs/_Kawaki wo Ameku (\u30AB\u30EF\u30AD\u30F2\u30A2\u30E1\u30AF)_
+      by Minami _ Domestic Girlfriend.mp3"
+    FolderPath: Songs\Songs\
+    Name: "_Kawaki wo Ameku (\u30AB\u30EF\u30AD\u30F2\u30A2\u30E1\u30AF)_ by Minami
+      _ Domestic Girlfriend.mp3"
+    Preload: 0
+    _id: 94c95d58-6987-4ebe-a7f0-99a7155f1666
+  - Clip: {fileID: 8300000, guid: c23e5195703a3df469dd5b9e92b0872f, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DToradora! OP - Opening 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DToradora! OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: db2c8bd8-4167-49d5-9ad2-111eb4ee7a81
+  - Clip: {fileID: 8300000, guid: e28ab94962639aa4ab5436e5d72fffc3, type: 3}
+    Key: Assets/Songs/Songs/Princess Connect! Re_Dive - Opening _ Lost Princess.mp3
+    FolderPath: Songs\Songs\
+    Name: Princess Connect! Re_Dive - Opening _ Lost Princess.mp3
+    Preload: 0
+    _id: 63e6a120-f3ef-4070-a5e1-94770666ccd0
+  - Clip: {fileID: 8300000, guid: 032d5e3f071a2124f8c52026e51d6ab9, type: 3}
+    Key: "Assets/Songs/Songs/[Second] Mahou Shoujo Madoka\u2605Magica - Opening HD.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] Mahou Shoujo Madoka\u2605Magica - Opening HD.mp3"
+    Preload: 0
+    _id: f9096c8b-b9fe-4517-b5fa-a10e5205d0df
+  - Clip: {fileID: 8300000, guid: 335c4db0dcb786d4698a4706195011f1, type: 3}
+    Key: "Assets/Songs/Songs/LiSA \u300E\u5F80\u3051\u300F -MUSiC CLiP- \uFF08\u300E\u5287\u5834\u7248
+      \u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3 -\u30D7\u30ED\u30B0\u30EC\u30C3\u30B7\u30D6-
+      \u661F\u306A\u304D\u591C\u306E\u30A2\u30EA\u30A2\u300F\u4E3B\u984C\u6B4C\uFF09.mp3"
+    FolderPath: Songs\Songs\
+    Name: "LiSA \u300E\u5F80\u3051\u300F -MUSiC CLiP- \uFF08\u300E\u5287\u5834\u7248
+      \u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3 -\u30D7\u30ED\u30B0\u30EC\u30C3\u30B7\u30D6-
+      \u661F\u306A\u304D\u591C\u306E\u30A2\u30EA\u30A2\u300F\u4E3B\u984C\u6B4C\uFF09.mp3"
+    Preload: 0
+    _id: 8a29dc52-7f4a-44e8-9d3a-769085a13888
+  - Clip: {fileID: 8300000, guid: 43e4a1801dc58e444b0514b2117a0d84, type: 3}
+    Key: Assets/Songs/Songs/[Second] Naoki Urasawa's Monster Opening _ Remastered
+      in 1080p.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Naoki Urasawa''s Monster Opening _ Remastered in 1080p.mp3'
+    Preload: 0
+    _id: 65cda232-1718-4841-8785-6dbdf21b4ed6
+  - Clip: {fileID: 8300000, guid: 4315074b50a8b5a46bd514f5c4a03523, type: 3}
+    Key: Assets/Songs/Songs/Overlord III - Opening _ VORACITY.mp3
+    FolderPath: Songs\Songs\
+    Name: Overlord III - Opening _ VORACITY.mp3
+    Preload: 0
+    _id: 6be2859d-e30e-4ff0-92b9-98c18abb57e2
+  - Clip: {fileID: 8300000, guid: 434d6bfe695b08244a9c6d423491c322, type: 3}
+    Key: Assets/Songs/Songs/Overlord - Opening _ Clattanoia.mp3
+    FolderPath: Songs\Songs\
+    Name: Overlord - Opening _ Clattanoia.mp3
+    Preload: 0
+    _id: a868d267-4e01-4c75-aaa3-265f1f6e3803
+  - Clip: {fileID: 8300000, guid: 439ee0352069d834294e0e72c5d3200c, type: 3}
+    Key: Assets/Songs/Songs/Fukashigi no Karte, Seishun Buta Yarou ED 01 Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Fukashigi no Karte, Seishun Buta Yarou ED 01 Creditless.mp3
+    Preload: 0
+    _id: c662a178-f007-41a5-8713-c475178ff5f5
+  - Clip: {fileID: 8300000, guid: 53024d0e5f3c2be48869a9cc279b28e4, type: 3}
+    Key: "Assets/Songs/Songs/\u25B6 Attack on Titan - Shingeki no Kyojin Season 3
+      OP \u2022\u300CRed Swan\u300D YOSHIKI feat. HYDE \u1D34\u1D30.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u25B6 Attack on Titan - Shingeki no Kyojin Season 3 OP \u2022\u300CRed
+      Swan\u300D YOSHIKI feat. HYDE \u1D34\u1D30.mp3"
+    Preload: 0
+    _id: d4c04d9a-d3e0-487a-987d-ad9aa129835e
+  - Clip: {fileID: 8300000, guid: 639604efa28b421438a27e082eb0f39a, type: 3}
+    Key: Assets/Songs/Songs/Cowboy Bebop - Opening - Tank! (HD - 60 fps).mp3
+    FolderPath: Songs\Songs\
+    Name: Cowboy Bebop - Opening - Tank! (HD - 60 fps).mp3
+    Preload: 0
+    _id: 81f66a49-351f-4e1c-a0c2-203194589225
+  - Clip: {fileID: 8300000, guid: 63b883c1762d0f446b0d9a9f6b398159, type: 3}
+    Key: Assets/Songs/Songs/Gabriel DropOut - Ending _ Hallelujah Essaim.mp3
+    FolderPath: Songs\Songs\
+    Name: Gabriel DropOut - Ending _ Hallelujah Essaim.mp3
+    Preload: 0
+    _id: 5fd0adb5-f9b5-4e51-91f4-aa5ee3a08113
+  - Clip: {fileID: 8300000, guid: 7301100315ef412459021491485862ff, type: 3}
+    Key: Assets/Songs/Songs/Haikyuu!! _ Opening 4 - FLY HIGH!! _ 4K Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Haikyuu!! _ Opening 4 - FLY HIGH!! _ 4K Creditless.mp3
+    Preload: 0
+    _id: 5593eea2-c40e-4973-af0d-b8e6d518e65a
+  - Clip: {fileID: 8300000, guid: 738c546bdbd510e458b0296976fdc31f, type: 3}
+    Key: Assets/Songs/Songs/BLUELOCK - Opening _ Chaos ga Kiwamaru.mp3
+    FolderPath: Songs\Songs\
+    Name: BLUELOCK - Opening _ Chaos ga Kiwamaru.mp3
+    Preload: 0
+    _id: fcacbd30-cd25-4db3-b10e-bf3890fb08d5
+  - Clip: {fileID: 8300000, guid: 933194584e0cc4b4fa94e129424d7a7c, type: 3}
+    Key: Assets/Songs/Songs/Naruto Shippuden Opening 6 _ Sign (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Naruto Shippuden Opening 6 _ Sign (HD).mp3
+    Preload: 0
+    _id: 45bee910-9b80-4b19-8dc9-4aecaff1ba36
+  - Clip: {fileID: 8300000, guid: a344e9c0b3c0dc643983562e5d70b284, type: 3}
+    Key: Assets/Songs/Songs/[Second] Dragon Ball - Makafushigi Adventure (Opening
+      1 HQ Audio).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Dragon Ball - Makafushigi Adventure (Opening 1 HQ Audio).mp3'
+    Preload: 0
+    _id: a0235b4f-621c-40db-9af5-a4389a4a15fa
+  - Clip: {fileID: 8300000, guid: a309ecc9ade87d0478c742d97b2bd77b, type: 3}
+    Key: Assets/Songs/Songs/Tokyo Ghoul - Opening _ Munou.mp3
+    FolderPath: Songs\Songs\
+    Name: Tokyo Ghoul - Opening _ Munou.mp3
+    Preload: 0
+    _id: 4041f173-2a44-4fb7-be6b-4c79ee6edd2f
+  - Clip: {fileID: 8300000, guid: a33efd0827623934e91a38de4bc4b961, type: 3}
+    Key: "Assets/Songs/Songs/K-on!! Ending 2\u300E NO,Thank You! \u300FStoryboard
+      Comparison.mp3"
+    FolderPath: Songs\Songs\
+    Name: "K-on!! Ending 2\u300E NO,Thank You! \u300FStoryboard Comparison.mp3"
+    Preload: 0
+    _id: 215a33d0-299b-441e-97d0-e29a3a9ff362
+  - Clip: {fileID: 8300000, guid: b39fbf3356b9202448af5330b5bda5cf, type: 3}
+    Key: Assets/Songs/Songs/call of the night.mp3
+    FolderPath: Songs\Songs\
+    Name: call of the night.mp3
+    Preload: 0
+    _id: 18b118ef-8abc-496a-ae51-70612bffb84d
+  - Clip: {fileID: 8300000, guid: c3c3ee1eb9bba3749b6d25977f54b14e, type: 3}
+    Key: "Assets/Songs/Songs/K-ON Opening 1 (Cagayake! GIRLS)\u300CCreditless\u300D\u300CUHD
+      60FPS\u300D_ KARAKA \u30AB\u30E9\u30AB.mp3"
+    FolderPath: Songs\Songs\
+    Name: "K-ON Opening 1 (Cagayake! GIRLS)\u300CCreditless\u300D\u300CUHD 60FPS\u300D_
+      KARAKA \u30AB\u30E9\u30AB.mp3"
+    Preload: 0
+    _id: 0f6d4988-8002-48a1-8012-41f49db0610b
+  - Clip: {fileID: 8300000, guid: e3b3b86455317cb4fba8a2796a4b3125, type: 3}
+    Key: Assets/Songs/Songs/The Strongest Sage with the Weakest Crest - Opening _
+      Leap of Faith.mp3
+    FolderPath: Songs\Songs\
+    Name: The Strongest Sage with the Weakest Crest - Opening _ Leap of Faith.mp3
+    Preload: 0
+    _id: 5d6ff210-b526-4477-83b5-b3da20d643ac
+  - Clip: {fileID: 8300000, guid: f3172077c9e9b19449282d86ea538371, type: 3}
+    Key: "Assets/Songs/Songs/LiSA\u300Ccrossing field\u300D\uFF0F\u300C\u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3\u300D\u7B2C1\u671F1st\u30AF\u30FC\u30EB
+      \u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP.mp3"
+    FolderPath: Songs\Songs\
+    Name: "LiSA\u300Ccrossing field\u300D\uFF0F\u300C\u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3\u300D\u7B2C1\u671F1st\u30AF\u30FC\u30EB
+      \u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP.mp3"
+    Preload: 0
+    _id: a1e75859-378b-4999-bff8-4c2eda8ad074
+  - Clip: {fileID: 8300000, guid: 14b75f023f39ec5418ad0278d9d09400, type: 3}
+    Key: Assets/Songs/Songs/[Second] Opening Dangan Ronpa The Animation.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Opening Dangan Ronpa The Animation.mp3'
+    Preload: 0
+    _id: 2d98a6d3-e5cf-412a-b4c0-36095a017a50
+  - Clip: {fileID: 8300000, guid: 24f3e9fecc983294caad5230924923b4, type: 3}
+    Key: Assets/Songs/Songs/The Rising of the Shield Hero - Ending 2 (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: The Rising of the Shield Hero - Ending 2 (HD).mp3
+    Preload: 0
+    _id: d8a49e94-da9e-4b86-98e4-9d4cf586fd8c
+  - Clip: {fileID: 8300000, guid: 347326cac45cbdd4bb17d7731c525ece, type: 3}
+    Key: Assets/Songs/Songs/Classroom of the Elite Season 2 - Opening _ Dance in
+      the Game.mp3
+    FolderPath: Songs\Songs\
+    Name: Classroom of the Elite Season 2 - Opening _ Dance in the Game.mp3
+    Preload: 0
+    _id: d8f09890-d217-40e9-9033-0f4a327318a7
+  - Clip: {fileID: 8300000, guid: 44a752324351f634488f4452cacd609d, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF1F
+      \uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B\u300CDADDY ! DADDY ! DO ! feat. \u9234\u6728\u611B\u7406\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF1F
+      \uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B\u300CDADDY ! DADDY ! DO ! feat. \u9234\u6728\u611B\u7406\u300D.mp3"
+    Preload: 0
+    _id: 0d23d0bb-742a-4dbf-aa24-8d12f45026f5
+  - Clip: {fileID: 8300000, guid: 441eae11fb3b0394e9f7d25ea59e86e1, type: 3}
+    Key: "Assets/Songs/Songs/Food Wars! Shokugeki no Soma OPENING 1 _ Kib\u014D no
+      Uta (HD).mp3"
+    FolderPath: Songs\Songs\
+    Name: "Food Wars! Shokugeki no Soma OPENING 1 _ Kib\u014D no Uta (HD).mp3"
+    Preload: 0
+    _id: 4f0b4f80-4a52-4dba-9ab4-cd32d63d1dd1
+  - Clip: {fileID: 8300000, guid: 549075e332dc1b140bee4ed2b0d41f70, type: 3}
+    Key: Assets/Songs/Songs/[Second] High School DxD Hero - Opening _ SWITCH.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] High School DxD Hero - Opening _ SWITCH.mp3'
+    Preload: 0
+    _id: 83b8411d-b29e-4dee-b963-0cadbdfd2728
+  - Clip: {fileID: 8300000, guid: 740499ac70d4697439842e8d72fe571f, type: 3}
+    Key: "Assets/Songs/Songs/Hige wo Soru_Higehiro Opening Song\u300EFULL SONG_ _REUPLOAD.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Hige wo Soru_Higehiro Opening Song\u300EFULL SONG_ _REUPLOAD.mp3"
+    Preload: 0
+    _id: 2854b4a9-264d-4426-9c6e-0b5a58540d01
+  - Clip: {fileID: 8300000, guid: 74357b3cd76b4b74d9eb4d7052466057, type: 3}
+    Key: "Assets/Songs/Songs/\u300CRenai Circulation\u300D - Bakemonogatari OP 4
+      _ Nadeko Snake _ English Sub.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CRenai Circulation\u300D - Bakemonogatari OP 4 _ Nadeko Snake _ English
+      Sub.mp3"
+    Preload: 0
+    _id: eca23fe3-1a95-409e-a0c0-41a15b4d5317
+  - Clip: {fileID: 8300000, guid: 74df9aea91ac3104f85f8554c6262771, type: 3}
+    Key: "Assets/Songs/Songs/\u85CD\u4E95\u30A8\u30A4\u30EB\u300CINNOCENCE\u300D\uFF0F\u300C\u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3\u300D\u7B2C1\u671F2nd\u30AF\u30FC\u30EB
+      \u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u85CD\u4E95\u30A8\u30A4\u30EB\u300CINNOCENCE\u300D\uFF0F\u300C\u30BD\u30FC\u30C9\u30A2\u30FC\u30C8\u30FB\u30AA\u30F3\u30E9\u30A4\u30F3\u300D\u7B2C1\u671F2nd\u30AF\u30FC\u30EB
+      \u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP.mp3"
+    Preload: 0
+    _id: 056e5aec-f32c-4a78-b9d9-338c561aed37
+  - Clip: {fileID: 8300000, guid: 94cec0e46e5db164a9804aabfa19513f, type: 3}
+    Key: Assets/Songs/Songs/[Second] Dororo ed.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Dororo ed.mp3'
+    Preload: 0
+    _id: 61b22ca1-7b10-454a-bf5c-9e8b91c99aa0
+  - Clip: {fileID: 8300000, guid: 94afd9a596b1a024794e5cb175633376, type: 3}
+    Key: Assets/Songs/Songs/Akame ga Kill! - Ending 1 _ Konna Sekai, Shiritakunakatta.mp3
+    FolderPath: Songs\Songs\
+    Name: Akame ga Kill! - Ending 1 _ Konna Sekai, Shiritakunakatta.mp3
+    Preload: 0
+    _id: b8bbd4b4-8cc9-41e6-b625-8de0bba8519d
+  - Clip: {fileID: 8300000, guid: a4af16f72cf3830429aeca131b03402a, type: 3}
+    Key: Assets/Songs/Songs/DARLING in the FRANXX - Ending 1 _ Torikago.mp3
+    FolderPath: Songs\Songs\
+    Name: DARLING in the FRANXX - Ending 1 _ Torikago.mp3
+    Preload: 0
+    _id: 6480010c-0731-4dfb-bf8b-e6f85daeee2a
+  - Clip: {fileID: 8300000, guid: b4521ed697d58ca4f807fbd5a2b9798d, type: 3}
+    Key: Assets/Songs/Songs/[Second] ReLIFE - Opening _ Button.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] ReLIFE - Opening _ Button.mp3'
+    Preload: 0
+    _id: 83de5369-48ce-4186-892d-eec43a99e203
+  - Clip: {fileID: 8300000, guid: b4354f54bc9517e41934319d613dcdbf, type: 3}
+    Key: Assets/Songs/Songs/[Second] Owari no Seraph OP 1 Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Owari no Seraph OP 1 Creditless.mp3'
+    Preload: 0
+    _id: 6182ca85-527e-4346-b684-d346180188b0
+  - Clip: {fileID: 8300000, guid: b4783eb038dce6b43a2e1ac7a650387d, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Ending 2 _ Stay
+      Alive.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Ending 2 _ Stay Alive.mp3
+    Preload: 0
+    _id: af1bc042-2d16-4f86-940a-b76e96c17b59
+  - Clip: {fileID: 8300000, guid: b479231ae28b4304ebc3aadde145351c, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kyoukai no Kanata Opening _ HD.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kyoukai no Kanata Opening _ HD.mp3'
+    Preload: 0
+    _id: b4538466-f008-4d77-ac3e-bd884ad4ac52
+  - Clip: {fileID: 8300000, guid: b48f9fbbfbfcf314f85e20f349a2bcca, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Season 2 - Opening
+      _ Realize v2.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Season 2 - Opening _ Realize v2.mp3
+    Preload: 0
+    _id: 5d0778a2-60e0-4932-a35e-b2b45f85af9c
+  - Clip: {fileID: 8300000, guid: c4a4a9cb03f81f04ba13d563422317ba, type: 3}
+    Key: Assets/Songs/Songs/Eromanga Sensei - Opening HD.mp3
+    FolderPath: Songs\Songs\
+    Name: Eromanga Sensei - Opening HD.mp3
+    Preload: 0
+    _id: 4b891e4a-a203-4dfc-8972-429fe140daaf
+  - Clip: {fileID: 8300000, guid: d4b096720dace414cb4ee5982d4b222c, type: 3}
+    Key: Assets/Songs/Songs/[Second] Guilty Crown Ending 1 HD.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Guilty Crown Ending 1 HD.mp3'
+    Preload: 0
+    _id: 082e5e5b-3b8a-439c-9417-8d49c672b5b5
+  - Clip: {fileID: 8300000, guid: d4881a8db59278b45846b7f8cbfafff6, type: 3}
+    Key: Assets/Songs/Songs/BOCCHI THE ROCK! - Ending _ Distortion!!.mp3
+    FolderPath: Songs\Songs\
+    Name: BOCCHI THE ROCK! - Ending _ Distortion!!.mp3
+    Preload: 0
+    _id: cdd81119-fdc8-409c-84fc-51213a6c92a2
+  - Clip: {fileID: 8300000, guid: f493be1612ed5f94d8fc69d560d8f5f8, type: 3}
+    Key: Assets/Songs/Songs/Sword Art Online - Opening 8 v1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: Sword Art Online - Opening 8 v1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: a132f2cf-f917-49ac-be89-a516b28b29f2
+  - Clip: {fileID: 8300000, guid: f477744f2e3bf894082837e957dab9b7, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DSPY x FAMILY OP - Opening 2\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DSPY x FAMILY OP - Opening 2\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: dfa9ab58-17ef-4eb8-8ec8-fb12897f7551
+  - Clip: {fileID: 8300000, guid: f40d1de2938236940964b98ec3d0a14a, type: 3}
+    Key: Assets/Songs/Songs/[Second] High School DxD NCED BD 1080p x264 (ending 1).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] High School DxD NCED BD 1080p x264 (ending 1).mp3'
+    Preload: 0
+    _id: e6b3ef98-b060-4c43-9b38-8f34f9668a92
+  - Clip: {fileID: 8300000, guid: 154184e6770dd9a4d9de9d296a98c8bd, type: 3}
+    Key: Assets/Songs/Songs/vanitas.mp3
+    FolderPath: Songs\Songs\
+    Name: vanitas.mp3
+    Preload: 0
+    _id: 0b5f0e2a-b95b-40d5-bad3-717ce088c969
+  - Clip: {fileID: 8300000, guid: 155617731c8b2e346a84ee57c8e12e0d, type: 3}
+    Key: Assets/Songs/Songs/[Second] 86 EIGHTY-SIX - Opening 2 _ Kyokaisen (1).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] 86 EIGHTY-SIX - Opening 2 _ Kyokaisen (1).mp3'
+    Preload: 0
+    _id: ceb7cb4b-5d93-466f-86ad-caad1b891f24
+  - Clip: {fileID: 8300000, guid: 157ba4e2ba52b7445831d710a1b2c5e9, type: 3}
+    Key: Assets/Songs/Songs/Neon Genesis Evangelion - Opening (Creditless) (HD -
+      60 fps).mp3
+    FolderPath: Songs\Songs\
+    Name: Neon Genesis Evangelion - Opening (Creditless) (HD - 60 fps).mp3
+    Preload: 0
+    _id: 615ec3cf-dab3-44fe-a47b-3281a2539217
+  - Clip: {fileID: 8300000, guid: 3512226967ca5df47ab0fac4fba391ab, type: 3}
+    Key: Assets/Songs/Songs/[Second] Persona 4_ The Animation - Opening 1 [60FPS].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Persona 4_ The Animation - Opening 1 [60FPS].mp3'
+    Preload: 0
+    _id: e8350ac1-4ce8-4f8a-803e-233e71d6e883
+  - Clip: {fileID: 8300000, guid: 35799b6eeaa23da4489f83c6b74fee89, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DSPY x FAMILY ED - Ending 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DSPY x FAMILY ED - Ending 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: c2d69e9d-b713-4271-a043-cd34a6a55bbe
+  - Clip: {fileID: 8300000, guid: 45f637a3ce61a304d8665f28ade319c8, type: 3}
+    Key: Assets/Songs/Songs/[Second] Naruto Shippuden - Ending 15 _ U Can Do It.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Naruto Shippuden - Ending 15 _ U Can Do It.mp3'
+    Preload: 0
+    _id: 95a5ff34-bc43-49e1-bcfc-8c87a2b5d36c
+  - Clip: {fileID: 8300000, guid: 75bb8db8d02ee024bbad3e26b48a6bf2, type: 3}
+    Key: Assets/Songs/Songs/Fate-Stay Night OP 01 (Creditless).mp3
+    FolderPath: Songs\Songs\
+    Name: Fate-Stay Night OP 01 (Creditless).mp3
+    Preload: 0
+    _id: 8675e4ba-247f-424e-b4a4-cc3a36a806bf
+  - Clip: {fileID: 8300000, guid: 859cf1836ad53a54eab985954bebf82f, type: 3}
+    Key: Assets/Songs/Songs/Death Note - Opening [4K].mp3
+    FolderPath: Songs\Songs\
+    Name: Death Note - Opening [4K].mp3
+    Preload: 0
+    _id: 2f7a2e6d-bb08-4969-82e3-c8ef2b0386a5
+  - Clip: {fileID: 8300000, guid: 9500ce3e9c4d3fe40b28883fffd5148d, type: 3}
+    Key: Assets/Songs/Songs/Demon Slayer _ Kimetsu no Yaiba ED1 _ FictionJunction
+      feat. LiSA - from the edge [Paroles + Trad FR].mp3
+    FolderPath: Songs\Songs\
+    Name: Demon Slayer _ Kimetsu no Yaiba ED1 _ FictionJunction feat. LiSA - from
+      the edge [Paroles + Trad FR].mp3
+    Preload: 0
+    _id: d640dce5-9def-4e55-bcdc-ede0d67786ba
+  - Clip: {fileID: 8300000, guid: a57e3485375decf4f9a56103e7cc00bf, type: 3}
+    Key: Assets/Songs/Songs/Naruto Shippuden Opening 13 _ Niwaka Ame ni mo Makezu
+      (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Naruto Shippuden Opening 13 _ Niwaka Ame ni mo Makezu (HD).mp3
+    Preload: 0
+    _id: 43562948-a7d7-45a5-8133-34327bfee554
+  - Clip: {fileID: 8300000, guid: c563b087bafc1804e9df2e7f948c24e2, type: 3}
+    Key: Assets/Songs/Songs/Attack on Titan Season 2 - Opening _ Shinzou wo Sasageyo!.mp3
+    FolderPath: Songs\Songs\
+    Name: Attack on Titan Season 2 - Opening _ Shinzou wo Sasageyo!.mp3
+    Preload: 0
+    _id: 09cdeb31-6acc-4f5f-bdcd-a05e3ac3458f
+  - Clip: {fileID: 8300000, guid: c5b9f70b4e0f49c4296861420b93c1ed, type: 3}
+    Key: "Assets/Songs/Songs/Hige Wo Soru Soshite Joshikousei Wo Hirou - Ending\u300EPlastic
+      Smile\u300Fby  Kaori Ishihara.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Hige Wo Soru Soshite Joshikousei Wo Hirou - Ending\u300EPlastic Smile\u300Fby 
+      Kaori Ishihara.mp3"
+    Preload: 0
+    _id: 7b465337-2e1a-4c9d-9753-311c437adcf1
+  - Clip: {fileID: 8300000, guid: d596b08a813951747886661cc520d69c, type: 3}
+    Key: "Assets/Songs/Songs/[Second] SHIMONETA \u2013 Opening Theme \u2013 B Chiku
+      Sentai SOX.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] SHIMONETA \u2013 Opening Theme \u2013 B Chiku Sentai SOX.mp3"
+    Preload: 0
+    _id: 49e1c074-abdf-4deb-abbc-faef6bee4af1
+  - Clip: {fileID: 8300000, guid: d50f9019d5c3dfc48a3e0c177f176631, type: 3}
+    Key: Assets/Songs/Songs/Tensei shitara Slime Datta Ke - Opening[2].mp3
+    FolderPath: Songs\Songs\
+    Name: Tensei shitara Slime Datta Ke - Opening[2].mp3
+    Preload: 0
+    _id: b03cc67a-dd02-4ada-8d56-98bbf7151425
+  - Clip: {fileID: 8300000, guid: e5d71b21f8607014eb22ce3295bf0aee, type: 3}
+    Key: Assets/Songs/Songs/One Piece Opening 1 - We Are! ENG SUB.mp3
+    FolderPath: Songs\Songs\
+    Name: One Piece Opening 1 - We Are! ENG SUB.mp3
+    Preload: 0
+    _id: 6a256017-4ffb-4e01-b2d5-a6583cfb09b3
+  - Clip: {fileID: 8300000, guid: e53a7fdeb369fa74888a9f7913926d9a, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u30EA\u30B3\u30EA\u30B9\u30FB\u30EA\u30B3\u30A4\u30EB\u300F\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7OP\u30E0\u30FC\u30D3\u30FC\uFF5CClariS\u300CALIVE\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u30EA\u30B3\u30EA\u30B9\u30FB\u30EA\u30B3\u30A4\u30EB\u300F\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7OP\u30E0\u30FC\u30D3\u30FC\uFF5CClariS\u300CALIVE\u300D.mp3"
+    Preload: 0
+    _id: 02b9f406-4189-45ef-bcb2-db39bc1b0b95
+  - Clip: {fileID: 8300000, guid: e5cffbb5b8bff264195e0a15de885766, type: 3}
+    Key: Assets/Songs/Songs/[Second] Darker Than Black Ending.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Darker Than Black Ending.mp3'
+    Preload: 0
+    _id: d8dfd487-484b-4b1e-a22e-972b0085cf41
+  - Clip: {fileID: 8300000, guid: f53aaa10bd469024c918b8a31239f624, type: 3}
+    Key: Assets/Songs/Songs/Hunter x Hunter Ending _ 2.mp3
+    FolderPath: Songs\Songs\
+    Name: Hunter x Hunter Ending _ 2.mp3
+    Preload: 0
+    _id: 18937140-57e6-4895-b524-80287429a725
+  - Clip: {fileID: 8300000, guid: 261a81a6cdf8528449b7609924bb46ef, type: 3}
+    Key: Assets/Songs/Songs/Overlord - Ending Theme 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Overlord - Ending Theme 1.mp3
+    Preload: 0
+    _id: c8db45b6-16da-4ae4-98d7-5221160c04de
+  - Clip: {fileID: 8300000, guid: 26dcd3f88683d9546bb795c39354a53b, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C1\u30AF\u30FC\u30EB\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\uFF08ED\uFF09\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u3060\u304B\u3089\u3001\u3072\u3068\u308A\u3058\u3083\u306A\u3044\u300DLittle
+      Glee Monster.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C1\u30AF\u30FC\u30EB\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\uFF08ED\uFF09\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u3060\u304B\u3089\u3001\u3072\u3068\u308A\u3058\u3083\u306A\u3044\u300DLittle
+      Glee Monster.mp3"
+    Preload: 0
+    _id: c1986d48-722f-430d-b478-79b0b6d93a11
+  - Clip: {fileID: 8300000, guid: 261f0f52d5cc6524b8f1d761f82ce6b8, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kokoro Connect _ Ending 1 HD.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kokoro Connect _ Ending 1 HD.mp3'
+    Preload: 0
+    _id: dbb7c964-1cee-42bb-b6fd-96f97ad97f60
+  - Clip: {fileID: 8300000, guid: 360f873e1f955a041a26a73f6bad5569, type: 3}
+    Key: Assets/Songs/Songs/Angel Beats Op Full HD w-lyrics My Soul, Your Beats!.mp3
+    FolderPath: Songs\Songs\
+    Name: Angel Beats Op Full HD w-lyrics My Soul, Your Beats!.mp3
+    Preload: 0
+    _id: 12932e74-647f-407e-abe4-5b3e312285b0
+  - Clip: {fileID: 8300000, guid: 468adbd496d2ede49819aa28b685bbd7, type: 3}
+    Key: Assets/Songs/Songs/[Second] The God of High School - Opening _ Contradiction
+      (feat. Tyler Carter).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] The God of High School - Opening _ Contradiction (feat. Tyler
+      Carter).mp3'
+    Preload: 0
+    _id: 055e186f-e12d-4032-97a3-88349bfd82cc
+  - Clip: {fileID: 8300000, guid: 463b425454668f34cb818272fd3336d8, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300C\u5C71\u7530\u304F\u3093\u3068Lv999\u306E\u604B\u3092\u3059\u308B\u300D\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7OP\u6620\u50CF\uFF5CKANA-BOON\u300C\u3050\u3089\u3067\u30FC\u3057\u3087\u3093
+      feat. \u5317\u6FA4\u3086\u3046\u307B\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300C\u5C71\u7530\u304F\u3093\u3068Lv999\u306E\u604B\u3092\u3059\u308B\u300D\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7OP\u6620\u50CF\uFF5CKANA-BOON\u300C\u3050\u3089\u3067\u30FC\u3057\u3087\u3093
+      feat. \u5317\u6FA4\u3086\u3046\u307B\u300D.mp3"
+    Preload: 0
+    _id: 04704ef1-81cd-4783-ae00-374128ed1fb6
+  - Clip: {fileID: 8300000, guid: 46ce538fafa3da5418722ab95f692ffb, type: 3}
+    Key: Assets/Songs/Songs/Psycho-Pass Opening 1 (Creditless).mp3
+    FolderPath: Songs\Songs\
+    Name: Psycho-Pass Opening 1 (Creditless).mp3
+    Preload: 0
+    _id: 72aa7823-867a-4fea-92fa-1347ffcc00a2
+  - Clip: {fileID: 8300000, guid: 5640ffddacefa8043a997e8c2d2c60f4, type: 3}
+    Key: Assets/Songs/Songs/Boruto Opening 4 _ Lonely Go! (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Boruto Opening 4 _ Lonely Go! (HD).mp3
+    Preload: 0
+    _id: e39b6f5e-7155-41b7-ae95-8487e9de9b1d
+  - Clip: {fileID: 8300000, guid: 765e215836cb2344aa39d8930fc15ed6, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C1\u30AF\u30FC\u30EB\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\uFF08OP\uFF09\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u30D4\u30FC\u30B9\u30B5\u30A4\u30F3\u300D\u7C73\u6D25\u7384\u5E2B\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C1\u30AF\u30FC\u30EB\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\uFF08OP\uFF09\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u30D4\u30FC\u30B9\u30B5\u30A4\u30F3\u300D\u7C73\u6D25\u7384\u5E2B\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    Preload: 0
+    _id: 91d0b2e8-355e-4328-b99c-052733f33946
+  - Clip: {fileID: 8300000, guid: 860e0ee2b66e3044a95409d83cfffa37, type: 3}
+    Key: Assets/Songs/Songs/Hell's Paradise - Opening _ Work.mp3
+    FolderPath: Songs\Songs\
+    Name: Hell's Paradise - Opening _ Work.mp3
+    Preload: 0
+    _id: 9a006a5d-4972-4837-80fe-09a629e86eae
+  - Clip: {fileID: 8300000, guid: 96de3b6141467c34bb6984131b7cafc3, type: 3}
+    Key: Assets/Songs/Songs/Fate Stay-Night (UBW) OP 2 - Brave Shine (Creditless).mp3
+    FolderPath: Songs\Songs\
+    Name: Fate Stay-Night (UBW) OP 2 - Brave Shine (Creditless).mp3
+    Preload: 0
+    _id: 9e6fdfb8-f5ee-4235-9107-0845008063fe
+  - Clip: {fileID: 8300000, guid: 968f11dfbc0532841a1ee2e7d4b01f08, type: 3}
+    Key: Assets/Songs/Songs/Suzumiya Haruhi Ending Special Version blu-ray (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Suzumiya Haruhi Ending Special Version blu-ray (HD).mp3
+    Preload: 0
+    _id: 0d7508ed-5c4e-4775-bfb6-856ae8b7032e
+  - Clip: {fileID: 8300000, guid: a6b52c02520b63545b5d6104b7058e88, type: 3}
+    Key: Assets/Songs/Songs/[Second] Clannad Opening (Blu-ray 1080p HD).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Clannad Opening (Blu-ray 1080p HD).mp3'
+    Preload: 0
+    _id: 6f4a5e03-2e62-4541-89f7-a09b90f7cc44
+  - Clip: {fileID: 8300000, guid: a6efa201644942647909281f61470243, type: 3}
+    Key: Assets/Songs/Songs/[Second] Naruto Shippuden Ending 12 _ For You (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Naruto Shippuden Ending 12 _ For You (HD).mp3'
+    Preload: 0
+    _id: 5dc7ac30-f115-48f7-b7c2-8958977e5588
+  - Clip: {fileID: 8300000, guid: c690aa232459e5a408f3f354352a3af6, type: 3}
+    Key: Assets/Songs/Songs/Nanatsu no taizai (the seven deadly sins) ending 2.mp3
+    FolderPath: Songs\Songs\
+    Name: Nanatsu no taizai (the seven deadly sins) ending 2.mp3
+    Preload: 0
+    _id: 40dd4e3b-65ba-4149-8a1a-0e7d118e4a3a
+  - Clip: {fileID: 8300000, guid: c63a3915550ab9b40a60a161c0f1caba, type: 3}
+    Key: Assets/Songs/Songs/[Second] Dororo.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Dororo.mp3'
+    Preload: 0
+    _id: 89cacff5-0cd7-4190-ad83-11a642f273d6
+  - Clip: {fileID: 8300000, guid: d646df31619a8594eb64bfe41a0647af, type: 3}
+    Key: Assets/Songs/Songs/[Second] Gintama Opening 13.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Gintama Opening 13.mp3'
+    Preload: 0
+    _id: 31b335c5-4942-431f-a77f-dd6d6b03969e
+  - Clip: {fileID: 8300000, guid: e6bdf3d2ecd8df64ba83c6500db8c966, type: 3}
+    Key: "Assets/Songs/Songs/Ya Boy Kongming! OP - Opening\u300CUHD 60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Ya Boy Kongming! OP - Opening\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 1cb76c10-aed2-4f00-b422-570541126231
+  - Clip: {fileID: 8300000, guid: f63bfe925eccbb84ea46435975a90a98, type: 3}
+    Key: Assets/Songs/Songs/Shikimori's Not Just a Cutie - Opening _ Honey Jet Coaster.mp3
+    FolderPath: Songs\Songs\
+    Name: Shikimori's Not Just a Cutie - Opening _ Honey Jet Coaster.mp3
+    Preload: 0
+    _id: f8ebd532-58c9-4fad-92a7-efa4f952a78d
+  - Clip: {fileID: 8300000, guid: 0755e0a5020c35a4cbebf710da35efdd, type: 3}
+    Key: Assets/Songs/Songs/[Second] Sakurasou no Pet na Kanojo Ending 1 [HD] [Creditless].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Sakurasou no Pet na Kanojo Ending 1 [HD] [Creditless].mp3'
+    Preload: 0
+    _id: 7a9ef203-59d7-4125-936c-927176efc9d8
+  - Clip: {fileID: 8300000, guid: 07a561d95e5c77344bb778a458e47ee0, type: 3}
+    Key: Assets/Songs/Songs/Tomodachi Game - Opening _ Double Shuffle.mp3
+    FolderPath: Songs\Songs\
+    Name: Tomodachi Game - Opening _ Double Shuffle.mp3
+    Preload: 0
+    _id: cdd39e2b-2ad7-42fc-b9be-d7628ddd6e8b
+  - Clip: {fileID: 8300000, guid: 17201b6c412bbae4fb717e855357ea65, type: 3}
+    Key: Assets/Songs/Songs/[Second] BEASTARS Season 2 OP (Clean) _ Kaibutsu - YOASOBI
+      _ Netflix Anime.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] BEASTARS Season 2 OP (Clean) _ Kaibutsu - YOASOBI _ Netflix Anime.mp3'
+    Preload: 0
+    _id: ac2d5e10-84a9-491e-b978-3308b50d63f5
+  - Clip: {fileID: 8300000, guid: 175dcaa2099ce5d46b4c63d360511caa, type: 3}
+    Key: "Assets/Songs/Songs/[Second] The Devil is a Part-Timer! \u2013 Opening Theme
+      \u2013 ZERO!!.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] The Devil is a Part-Timer! \u2013 Opening Theme \u2013 ZERO!!.mp3"
+    Preload: 0
+    _id: 944b33af-f607-4510-98db-ebe4c129c939
+  - Clip: {fileID: 8300000, guid: 27227ef2a0db4de47bd6dd8f17b1bc9f, type: 3}
+    Key: Assets/Songs/Songs/Death Note OP 2 HQ.mp3
+    FolderPath: Songs\Songs\
+    Name: Death Note OP 2 HQ.mp3
+    Preload: 0
+    _id: fac4869c-2759-486a-9434-86a082f461d8
+  - Clip: {fileID: 8300000, guid: 5769347046b68b246890a90e4200b719, type: 3}
+    Key: Assets/Songs/Songs/Miss Kobayashi's Dragon Maid S - Opening _ Ai no Supreme!.mp3
+    FolderPath: Songs\Songs\
+    Name: Miss Kobayashi's Dragon Maid S - Opening _ Ai no Supreme!.mp3
+    Preload: 0
+    _id: 5b7e822f-fc85-4c99-b448-e996e7dc23f7
+  - Clip: {fileID: 8300000, guid: 57cb8db948a16ed4296fc9396a118818, type: 3}
+    Key: Assets/Songs/Songs/[Second] Banana Fish - Opening 1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Banana Fish - Opening 1 [4K 60FPS _ Creditless _ CC].mp3'
+    Preload: 0
+    _id: 4027d38d-b717-4559-9bd2-b58ae4e5a032
+  - Clip: {fileID: 8300000, guid: 772cae7a3b0666745bbc5dc924ddf0cf, type: 3}
+    Key: Assets/Songs/Songs/[Second] Yamada-kun and the Seven Witches ENDING _ CANDY
+      MAGIC (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Yamada-kun and the Seven Witches ENDING _ CANDY MAGIC (HD).mp3'
+    Preload: 0
+    _id: 430bd9a2-07b6-40df-a228-88c9442ccb99
+  - Clip: {fileID: 8300000, guid: 8741ccd739aaddb4f8a389a2f3ca82e5, type: 3}
+    Key: Assets/Songs/Songs/Tensei Shitara Ken Deshita - Reincarnated as a sword
+      - opening.mp3
+    FolderPath: Songs\Songs\
+    Name: Tensei Shitara Ken Deshita - Reincarnated as a sword - opening.mp3
+    Preload: 0
+    _id: fdf3d64d-f2a8-4e91-963d-a15105f319d8
+  - Clip: {fileID: 8300000, guid: 87925dbd7b488774db9d4453500b0b27, type: 3}
+    Key: Assets/Songs/Songs/Shaman King ~English Opening~.mp3
+    FolderPath: Songs\Songs\
+    Name: Shaman King ~English Opening~.mp3
+    Preload: 0
+    _id: b1d951aa-a8a7-429e-86db-92b2b9c0df37
+  - Clip: {fileID: 8300000, guid: 879bc8b65fa3ad549a0fd634caaab0ed, type: 3}
+    Key: Assets/Songs/Songs/Toradora Opening 2 [HD] [Creditless].mp3
+    FolderPath: Songs\Songs\
+    Name: Toradora Opening 2 [HD] [Creditless].mp3
+    Preload: 0
+    _id: a82fcbdc-17f2-431d-b4f7-7e92425aef53
+  - Clip: {fileID: 8300000, guid: 97163bd6dafff1f4a944b9ada85e796b, type: 3}
+    Key: Assets/Songs/Songs/[Second] Darker than Black Opening 1.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Darker than Black Opening 1.mp3'
+    Preload: 0
+    _id: 7865b4c0-c34d-4d59-8f2d-99dfbc18c3cb
+  - Clip: {fileID: 8300000, guid: 976e4c003a5d32e418e32e98435041cc, type: 3}
+    Key: Assets/Songs/Songs/The Eminence in Shadow - Opening 1 _ 4K _ 60FPS _ Creditless
+      _.mp3
+    FolderPath: Songs\Songs\
+    Name: The Eminence in Shadow - Opening 1 _ 4K _ 60FPS _ Creditless _.mp3
+    Preload: 0
+    _id: 0d2a6446-19a4-4bab-b742-aaad0c6d63bd
+  - Clip: {fileID: 8300000, guid: a73988176cfff3048ba5c37cf12cba86, type: 3}
+    Key: "Assets/Songs/Songs/[Second] \u041F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442
+      \u0421\u0442\u0443\u0434 \u0421\u043E\u0432\u0435\u0442\u0430 - \u0413\u043E\u0440\u043D\u0438\u0447\u043D\u0430\u044F!
+      [1 \u043E\u043F\u0435\u043D\u0438\u043D\u0433].mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] \u041F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u0421\u0442\u0443\u0434
+      \u0421\u043E\u0432\u0435\u0442\u0430 - \u0413\u043E\u0440\u043D\u0438\u0447\u043D\u0430\u044F!
+      [1 \u043E\u043F\u0435\u043D\u0438\u043D\u0433].mp3"
+    Preload: 0
+    _id: 3b74f9c8-c238-4e21-a319-f88620f38be2
+  - Clip: {fileID: 8300000, guid: a72b60c445a4b9a4aa72104196a3c8d7, type: 3}
+    Key: Assets/Songs/Songs/Mob Psycho 100 III - Opening _ 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Mob Psycho 100 III - Opening _ 1.mp3
+    Preload: 0
+    _id: 1a44cabd-28db-4074-8ff8-77f4f020f7be
+  - Clip: {fileID: 8300000, guid: b7879dca28d08b14d86987b696b2ecbe, type: 3}
+    Key: "Assets/Songs/Songs/Sword Art Online Opening 4 HD Sub Espa\xF1ol (Yuuki).mp3"
+    FolderPath: Songs\Songs\
+    Name: "Sword Art Online Opening 4 HD Sub Espa\xF1ol (Yuuki).mp3"
+    Preload: 0
+    _id: 1c22b8ff-915c-4c67-a06e-1df7305e3a0b
+  - Clip: {fileID: 8300000, guid: c73638dc7723e0348a0e599896478c70, type: 3}
+    Key: Assets/Songs/Songs/[Second] ClariS - CLICK _ Nisekoi Opening 1 English sub.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] ClariS - CLICK _ Nisekoi Opening 1 English sub.mp3'
+    Preload: 0
+    _id: b6479461-b6a1-466e-9861-df74d30c5338
+  - Clip: {fileID: 8300000, guid: d730abfed4b799946a88e25eb595727d, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300C\u30DE\u30C3\u30B7\u30E5\u30EB-MASHLE-\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF5C\u5CA1\u5D0E\u4F53\u80B2\u300CKnock
+      Out\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300C\u30DE\u30C3\u30B7\u30E5\u30EB-MASHLE-\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF5C\u5CA1\u5D0E\u4F53\u80B2\u300CKnock
+      Out\u300D.mp3"
+    Preload: 0
+    _id: fe8d4071-7f58-4f13-a1ea-22da9850365e
+  - Clip: {fileID: 8300000, guid: e7ead746def2a8547908add305e32406, type: 3}
+    Key: "Assets/Songs/Songs/Oregairu Kan Opening TV size - \u300EMegumi no Ame\u300Fby
+      Nagi Yanagi.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Oregairu Kan Opening TV size - \u300EMegumi no Ame\u300Fby Nagi Yanagi.mp3"
+    Preload: 0
+    _id: 96306643-25a9-4025-aada-d2c8d79ed9ed
+  - Clip: {fileID: 8300000, guid: 08363ae0a76161d41a9c761d7db1cc05, type: 3}
+    Key: Assets/Songs/Songs/[Second] Samurai Champloo - Opening _ Battlecry.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Samurai Champloo - Opening _ Battlecry.mp3'
+    Preload: 0
+    _id: 81c6b633-471b-4aba-89f1-f909701bf7af
+  - Clip: {fileID: 8300000, guid: 081d18f2e9ebe5c4db72f286ca5e38a3, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Opening 2 _
+      Paradisus-Paradoxum.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Opening 2 _ Paradisus-Paradoxum.mp3
+    Preload: 0
+    _id: 8ff2afff-f494-4076-9a6b-58ad428f38eb
+  - Clip: {fileID: 8300000, guid: 5844cf55b5f07984d9bbe8932acb8264, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 4 v1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 4 v1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 531b19c8-ed82-4fb6-a16a-9e5bf4809c95
+  - Clip: {fileID: 8300000, guid: 786323d6b05925d4ba068a5c37225de9, type: 3}
+    Key: Assets/Songs/Songs/Mirai Nikki Ending Full (Blood Teller).mp3
+    FolderPath: Songs\Songs\
+    Name: Mirai Nikki Ending Full (Blood Teller).mp3
+    Preload: 0
+    _id: fe7e7c3b-cc8e-414a-93e7-e0f84ed14f5d
+  - Clip: {fileID: 8300000, guid: 7895f9b7eabb28f4694f86a9d2e7f741, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DDeath Parade OP - Opening\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DDeath Parade OP - Opening\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 8ef37ca9-67ad-4618-b4c7-6ab06ed18a65
+  - Clip: {fileID: 8300000, guid: 78f574c3478391c49acfb5216db923e4, type: 3}
+    Key: "Assets/Songs/Songs/Blend-S Opening _ Bon App\xE9tit\u2661S.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Blend-S Opening _ Bon App\xE9tit\u2661S.mp3"
+    Preload: 0
+    _id: 30720290-8d01-4e2f-b0c4-a8ae02afbdc0
+  - Clip: {fileID: 8300000, guid: 8891eda5676c6834c890484d260e8919, type: 3}
+    Key: Assets/Songs/Songs/Black Clover - Opening 3 _ Black Rover.mp3
+    FolderPath: Songs\Songs\
+    Name: Black Clover - Opening 3 _ Black Rover.mp3
+    Preload: 0
+    _id: 33066591-cc43-457d-b762-3924ec051757
+  - Clip: {fileID: 8300000, guid: 880abc1e9bd51a64ab0f191ad1c1da6f, type: 3}
+    Key: Assets/Songs/Songs/Your Lie in April OP-Opening Theme - Hikaru Nara.mp3
+    FolderPath: Songs\Songs\
+    Name: Your Lie in April OP-Opening Theme - Hikaru Nara.mp3
+    Preload: 0
+    _id: 6fedeeb0-2083-4fc4-b922-772af2409ce8
+  - Clip: {fileID: 8300000, guid: 980f8711106f67c44b6fa287eda8ff2b, type: 3}
+    Key: Assets/Songs/Songs/Nisekoi S2 Opening [HD].mp3
+    FolderPath: Songs\Songs\
+    Name: Nisekoi S2 Opening [HD].mp3
+    Preload: 0
+    _id: 104c9592-9944-4ba3-9ca4-f751173831b3
+  - Clip: {fileID: 8300000, guid: a8226771726ff5d4a994cc8f6d1239bd, type: 3}
+    Key: Assets/Songs/Songs/Komi Can't Communicate OP (Clean) _ Cinderella - CIDERGIRL
+      _ Netflix Anime.mp3
+    FolderPath: Songs\Songs\
+    Name: Komi Can't Communicate OP (Clean) _ Cinderella - CIDERGIRL _ Netflix Anime.mp3
+    Preload: 0
+    _id: d6876331-7985-48be-adb3-590dfebfdfa4
+  - Clip: {fileID: 8300000, guid: b8f03d2e80a8c864a9450beaa668fbdc, type: 3}
+    Key: Assets/Songs/Songs/[Second] Golden Time OP 1.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Golden Time OP 1.mp3'
+    Preload: 0
+    _id: 4fe54cfd-8a7c-4adf-87b5-4f325a03aae1
+  - Clip: {fileID: 8300000, guid: b887a8e668138a445a845a78eebc7c1c, type: 3}
+    Key: Assets/Songs/Songs/[Second] Owari no Seraph OP2 (Creditless).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Owari no Seraph OP2 (Creditless).mp3'
+    Preload: 0
+    _id: 7aa1b645-c3ea-47c5-96ed-65db4775b45b
+  - Clip: {fileID: 8300000, guid: b8ac341d86e572e4e8c5c5e2cd0573d6, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u30EA\u30B3\u30EA\u30B9\u30FB\u30EA\u30B3\u30A4\u30EB\u300F\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7ED\u30E0\u30FC\u30D3\u30FC\uFF5C\u3055\u30E6\u308A\u300C\u82B1\u306E\u5854\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u30EA\u30B3\u30EA\u30B9\u30FB\u30EA\u30B3\u30A4\u30EB\u300F\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7ED\u30E0\u30FC\u30D3\u30FC\uFF5C\u3055\u30E6\u308A\u300C\u82B1\u306E\u5854\u300D.mp3"
+    Preload: 0
+    _id: da50efa8-40a7-4958-82ec-9a6664200aa3
+  - Clip: {fileID: 8300000, guid: c82267acd5fe0bd4f9bdefaeacc239a3, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u5E72\u7269\u59B9\uFF01\u3046\u307E\u308B\u3061\u3083\u3093\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u6620\u50CF\u300C\u304B\u304F\u3057\u3093\u7684\u2606\u3081\u305F\u307E\u308B\u3075\u3049\uFF5E\u305C\u3063\uFF01\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u5E72\u7269\u59B9\uFF01\u3046\u307E\u308B\u3061\u3083\u3093\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u6620\u50CF\u300C\u304B\u304F\u3057\u3093\u7684\u2606\u3081\u305F\u307E\u308B\u3075\u3049\uFF5E\u305C\u3063\uFF01\u300D.mp3"
+    Preload: 0
+    _id: 53aca678-1129-47d2-af5c-9cd80407332c
+  - Clip: {fileID: 8300000, guid: c8c7722094dd59949a9bbf9ab6f333d3, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DAkame ga Kill OP - Opening 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DAkame ga Kill OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 202aa398-ebf4-4ed9-b67c-08294f47fe77
+  - Clip: {fileID: 8300000, guid: c83df6b2720b4e64ca0f8272e4c10ca6, type: 3}
+    Key: Assets/Songs/Songs/Tensei shitara Slime Datta Ke - Opening[1].mp3
+    FolderPath: Songs\Songs\
+    Name: Tensei shitara Slime Datta Ke - Opening[1].mp3
+    Preload: 0
+    _id: 730d124e-1f7f-4609-b3eb-cb594610df2d
+  - Clip: {fileID: 8300000, guid: c85d59a9ba3b48e41a280b754438c855, type: 3}
+    Key: Assets/Songs/Songs/OPENING #2 _  Song of the Dead by KANA-BOON _ Zom 100_
+      Bucket List of the Dead _ VIZ.mp3
+    FolderPath: Songs\Songs\
+    Name: OPENING #2 _  Song of the Dead by KANA-BOON _ Zom 100_ Bucket List of the
+      Dead _ VIZ.mp3
+    Preload: 0
+    _id: cb2e4c70-55c2-49df-b833-152d43cb912f
+  - Clip: {fileID: 8300000, guid: d8f0d705357af874e921276e1b78b6c9, type: 3}
+    Key: Assets/Songs/Songs/[Second] DanMachi S4 - Ending 1 _ Guide.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] DanMachi S4 - Ending 1 _ Guide.mp3'
+    Preload: 0
+    _id: 5498458f-84b4-41c6-9fde-bfa8236b96b5
+  - Clip: {fileID: 8300000, guid: d892d0b5e088f8842814967a321d1dd1, type: 3}
+    Key: Assets/Songs/Songs/[Second] Free! - Opening [Anime] [OP] [2013].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Free! - Opening [Anime] [OP] [2013].mp3'
+    Preload: 0
+    _id: a8c79027-ea5b-46b3-a7fe-cfff2905b7f3
+  - Clip: {fileID: 8300000, guid: d84abed536b37ec439112547d2e5e747, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DTonikaku Kawaii Season 2 OP -
+      Opening\u300CUHD 60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DTonikaku Kawaii Season 2 OP - Opening\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 48ef3833-6154-468f-b99c-d220c416a3fd
+  - Clip: {fileID: 8300000, guid: e8fe8ce8f7f73e74db6788732ccb7b2a, type: 3}
+    Key: "Assets/Songs/Songs/\u300ESPY\xD7FAMILY\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u4E3B\u984C\u6B4C\u30A2\u30CB\u30E1\u6620\u50CF\uFF0F\u201CSPY
+      \xD7 FAMILY\u201D Opening theme song animation.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300ESPY\xD7FAMILY\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u4E3B\u984C\u6B4C\u30A2\u30CB\u30E1\u6620\u50CF\uFF0F\u201CSPY
+      \xD7 FAMILY\u201D Opening theme song animation.mp3"
+    Preload: 0
+    _id: ae025289-3438-4d4e-b95c-a98194c39017
+  - Clip: {fileID: 8300000, guid: 191423c8f1f6e8341ad9a6607eb64748, type: 3}
+    Key: Assets/Songs/Songs/[Second] Masamune-kun's Revenge R - Opening _ Please,
+      please!.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Masamune-kun''s Revenge R - Opening _ Please, please!.mp3'
+    Preload: 0
+    _id: 1c8598f8-b205-4f56-87a3-3004747398f2
+  - Clip: {fileID: 8300000, guid: 39bdf46cb485cc24aa46dce8f7583bee, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DFate-Zero OP - Opening 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DFate-Zero OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 57cd0db6-8cf1-4f28-98f9-a1ef42b4d54c
+  - Clip: {fileID: 8300000, guid: 594ee9d00db05264c8809258e8e472f3, type: 3}
+    Key: Assets/Songs/Songs/Hunter x Hunter Ending _ 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Hunter x Hunter Ending _ 1.mp3
+    Preload: 0
+    _id: a4a910e4-ae46-4172-bf93-2355e5b8a68f
+  - Clip: {fileID: 8300000, guid: 996ed9fe0bcd4654aaa0bbe450bdbc80, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u7B2C2\u671F\u300C\u61D0\u7389\u30FB\u7389\u6298\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8ED\u30E0\u30FC\u30D3\u30FC\uFF0FED\u30C6\u30FC\u30DE\uFF1A\u5D0E\u5C71\u84BC\u5FD7\u300C\u71C8\u300D\uFF5C\u6BCE\u9031\u6728\u66DC\u591C11\u664256\u5206\uFF5EMBS-TBS\u7CFB\u5217\u5168\u56FD28\u5C40\u306B\u3066\u653E\u9001\u958B\u59CB!!.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u7B2C2\u671F\u300C\u61D0\u7389\u30FB\u7389\u6298\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8ED\u30E0\u30FC\u30D3\u30FC\uFF0FED\u30C6\u30FC\u30DE\uFF1A\u5D0E\u5C71\u84BC\u5FD7\u300C\u71C8\u300D\uFF5C\u6BCE\u9031\u6728\u66DC\u591C11\u664256\u5206\uFF5EMBS-TBS\u7CFB\u5217\u5168\u56FD28\u5C40\u306B\u3066\u653E\u9001\u958B\u59CB!!.mp3"
+    Preload: 0
+    _id: 7117cf0d-4f4b-4f9a-bf20-47eb35c099d5
+  - Clip: {fileID: 8300000, guid: a9b6e41e19418424784b667fe6879879, type: 3}
+    Key: Assets/Songs/Songs/[Second] Prison school Opening HD.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Prison school Opening HD.mp3'
+    Preload: 0
+    _id: c7d40897-61aa-4cf9-b509-8cc933f6daf6
+  - Clip: {fileID: 8300000, guid: a90e44af97946e347b9804a12f2a9afe, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 8 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 8 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: deb6a83d-2a54-4712-8599-60ea05332559
+  - Clip: {fileID: 8300000, guid: d971e41c709532c459c16150decb4fed, type: 3}
+    Key: "Assets/Songs/Songs/\u300C\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044-\u30A6\u30EB\u30C8\u30E9\u30ED\u30DE\u30F3\u30C6\u30A3\u30C3\u30AF-\u300D\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B feat. \u3059\u3045\u300CGIRI GIRI\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300C\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044-\u30A6\u30EB\u30C8\u30E9\u30ED\u30DE\u30F3\u30C6\u30A3\u30C3\u30AF-\u300D\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B feat. \u3059\u3045\u300CGIRI GIRI\u300D.mp3"
+    Preload: 0
+    _id: 3b7da93a-db68-4780-afb4-b9d6ff8c1356
+  - Clip: {fileID: 8300000, guid: d9717eb56d5bc07468e18f7d3f4a5bd0, type: 3}
+    Key: Assets/Songs/Songs/Kimetsu no Yaiba _ Opening 2 - Akeboshi _ 4K Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Kimetsu no Yaiba _ Opening 2 - Akeboshi _ 4K Creditless.mp3
+    Preload: 0
+    _id: 41e8baf8-b754-4381-9ccc-03ab06054bce
+  - Clip: {fileID: 8300000, guid: f9515d4a6378c404aac5616797215ae6, type: 3}
+    Key: Assets/Songs/Songs/[Second] Dragon Ball Z -  Ending 2  (Japanese).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Dragon Ball Z -  Ending 2  (Japanese).mp3'
+    Preload: 0
+    _id: 91a523ec-05c3-4db8-b39b-427dbb6a9cf7
+  - Clip: {fileID: 8300000, guid: 0afb9febfeb2b74448723c65d504b58e, type: 3}
+    Key: Assets/Songs/Songs/Yuukoku No Moriarty Opening (HD-60fps-Credits).mp3
+    FolderPath: Songs\Songs\
+    Name: Yuukoku No Moriarty Opening (HD-60fps-Credits).mp3
+    Preload: 0
+    _id: d19df2ee-070c-4cff-b3fa-31e150fc79b8
+  - Clip: {fileID: 8300000, guid: 1a20f7f62309d1343a317c73ff0a1fde, type: 3}
+    Key: Assets/Songs/Songs/[Second] Hellsing Ending 1.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Hellsing Ending 1.mp3'
+    Preload: 0
+    _id: d23f022f-2833-481c-8cd4-f42ed5015cee
+  - Clip: {fileID: 8300000, guid: 1ae01836d30aa564f87de0dcfddce1e4, type: 3}
+    Key: Assets/Songs/Songs/Shingeki no Kyojin  Opening 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Shingeki no Kyojin  Opening 1.mp3
+    Preload: 0
+    _id: 01fe2f7e-04ab-4a64-b6f4-cdc1d79ddfb1
+  - Clip: {fileID: 8300000, guid: 1a6a31753cb68ef4796415d9e59f9c76, type: 3}
+    Key: Assets/Songs/Songs/Oregairu kan ending - Diamond no Jundo - by Yukinoshita
+      & Yui Yuigahama (lyrics).mp3
+    FolderPath: Songs\Songs\
+    Name: Oregairu kan ending - Diamond no Jundo - by Yukinoshita & Yui Yuigahama
+      (lyrics).mp3
+    Preload: 0
+    _id: ab5fb5ad-bd96-4673-96c7-4e2735fb22c4
+  - Clip: {fileID: 8300000, guid: 3aae104a25501f643aa3da6782495556, type: 3}
+    Key: Assets/Songs/Songs/[Second] Saga of Tanya the Evil - Opening _ JINGO JUNGLE.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Saga of Tanya the Evil - Opening _ JINGO JUNGLE.mp3'
+    Preload: 0
+    _id: 3543b65a-ed6e-4ffa-b1a7-fe564883a0c2
+  - Clip: {fileID: 8300000, guid: 4ad84742746b69346a63d6e487857c5f, type: 3}
+    Key: Assets/Songs/Songs/DARLING in the FRANXX - Opening (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: DARLING in the FRANXX - Opening (HD).mp3
+    Preload: 0
+    _id: f50ae1b1-379e-4d8a-b3b9-86955eb76e85
+  - Clip: {fileID: 8300000, guid: 4a1fbe0bffead3847afc841599919cfe, type: 3}
+    Key: Assets/Songs/Songs/Naruto Shippuden Opening 16 _ Silhouette (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Naruto Shippuden Opening 16 _ Silhouette (HD).mp3
+    Preload: 0
+    _id: 39e33542-f07d-4424-9633-73497fcc5e3b
+  - Clip: {fileID: 8300000, guid: 5aca3e6fad3ad7548b5f6637c7ed86b7, type: 3}
+    Key: Assets/Songs/Songs/BOCCHI THE ROCK! - Opening _ Seishun Complex.mp3
+    FolderPath: Songs\Songs\
+    Name: BOCCHI THE ROCK! - Opening _ Seishun Complex.mp3
+    Preload: 0
+    _id: a9228981-3bef-40fc-aab0-eddec651aca1
+  - Clip: {fileID: 8300000, guid: 6a261e8e530b872439fd7353045b3ebf, type: 3}
+    Key: Assets/Songs/Songs/Ikimonogakari - Netsujou no Spectrum [Nanatsu no Taizai
+      S1 Opening 1] Lyrics.mp3
+    FolderPath: Songs\Songs\
+    Name: Ikimonogakari - Netsujou no Spectrum [Nanatsu no Taizai S1 Opening 1] Lyrics.mp3
+    Preload: 0
+    _id: 23b6a746-9303-497a-8916-94801aad808f
+  - Clip: {fileID: 8300000, guid: 6ab9f6d9646786c4090b46c4e0e1a4a9, type: 3}
+    Key: Assets/Sounds/IncorrectAnswer.mp3
+    FolderPath: Sounds\
+    Name: IncorrectAnswer.mp3
+    Preload: 0
+    _id: 69928f09-9bf1-4f35-84f7-b6e6c8a15179
+  - Clip: {fileID: 8300000, guid: 7afff9a42541f394ab16125cef4013f0, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DOne Punch Man OP - Opening 2\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DOne Punch Man OP - Opening 2\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: 1423636f-576d-4858-ab6f-501caf2bb782
+  - Clip: {fileID: 8300000, guid: 8ac0bddd6a31e154aa94138d6cedcfca, type: 3}
+    Key: Assets/Songs/Songs/Nisemonogatari OP 3 - Platinum Disco Tsukihi Phoenix.mp3
+    FolderPath: Songs\Songs\
+    Name: Nisemonogatari OP 3 - Platinum Disco Tsukihi Phoenix.mp3
+    Preload: 0
+    _id: fe32d9b6-6707-4d55-890a-0a9a360ad930
+  - Clip: {fileID: 8300000, guid: 8acfb661b6a7ff84b8eb53569aaba4b4, type: 3}
+    Key: Assets/Songs/Songs/Noragami Opening - Hello Sleepwalkers (HD + Lyrics).mp3
+    FolderPath: Songs\Songs\
+    Name: Noragami Opening - Hello Sleepwalkers (HD + Lyrics).mp3
+    Preload: 0
+    _id: 8fc59335-085c-450c-9e3a-17dee5f0656a
+  - Clip: {fileID: 8300000, guid: 9a4215d4f640d1f49a7fc81dcafc28c9, type: 3}
+    Key: "Assets/Songs/Songs/Psycho-Pass 2 - \u30B5\u30A4\u30B3\u30D1\u30B9 - opening
+      creditless HD.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Psycho-Pass 2 - \u30B5\u30A4\u30B3\u30D1\u30B9 - opening creditless HD.mp3"
+    Preload: 0
+    _id: f8cce9ef-0759-4414-ad34-f073b88ee1a1
+  - Clip: {fileID: 8300000, guid: aa33d44982a8c834badc452cce2281f2, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DSummertime Render OP - Opening
+      2\u300CUHD 60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DSummertime Render OP - Opening 2\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: ace94e40-e2e9-49b2-bdea-5568fd36dd3e
+  - Clip: {fileID: 8300000, guid: aaa57cad6299ace45a18e8666dc5ce1c, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DCharlotte OP - Opening\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DCharlotte OP - Opening\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: ad219e21-5a89-464d-887d-2b2edb4504b2
+  - Clip: {fileID: 8300000, guid: aaac674213438ca40a06f1d0590fcb1a, type: 3}
+    Key: Assets/Songs/Songs/[Second] citrus - Opening _ Azalea.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] citrus - Opening _ Azalea.mp3'
+    Preload: 0
+    _id: 3111d605-80d3-4b57-8dd0-0d5c090a45da
+  - Clip: {fileID: 8300000, guid: ba628b9ff3258514aae1b6423cd3318a, type: 3}
+    Key: "Assets/Songs/Songs/Plastic Memories Opening\u300CRing of Fortune\u300D
+      [Lyrics + Eng Subtitle] [NCOP] [720p].mp3"
+    FolderPath: Songs\Songs\
+    Name: "Plastic Memories Opening\u300CRing of Fortune\u300D [Lyrics + Eng Subtitle]
+      [NCOP] [720p].mp3"
+    Preload: 0
+    _id: ef59588a-dc08-4c95-a607-c6ba40d0b063
+  - Clip: {fileID: 8300000, guid: ba56fb48bf7f1804f88c62359926722d, type: 3}
+    Key: Assets/Songs/Songs/Soul Eater - Opening _ Resonance.mp3
+    FolderPath: Songs\Songs\
+    Name: Soul Eater - Opening _ Resonance.mp3
+    Preload: 0
+    _id: 17678f70-6133-47c3-8425-05d93dfcb682
+  - Clip: {fileID: 8300000, guid: ca49bbb3fa888a94c91ffe91608089ba, type: 3}
+    Key: Assets/Songs/Songs/[Second] Boku Dake Ga Inai Machi Opening.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Boku Dake Ga Inai Machi Opening.mp3'
+    Preload: 0
+    _id: 287fa5fa-f32d-4b1c-b058-a564e82158ca
+  - Clip: {fileID: 8300000, guid: ca4ce6e3643601c4ca05e8fc749a50bf, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kokoro Connect - The Heart of Friendship.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kokoro Connect - The Heart of Friendship.mp3'
+    Preload: 0
+    _id: 7cea41e6-9b59-44f6-a117-756b19fed70d
+  - Clip: {fileID: 8300000, guid: fa8803e746e085941ad08dc1b2013a07, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB1\u671F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u300CThe
+      Day\u300D\u30DD\u30EB\u30CE\u30B0\u30E9\u30D5\u30A3\u30C6\u30A3\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB1\u671F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u300CThe
+      Day\u300D\u30DD\u30EB\u30CE\u30B0\u30E9\u30D5\u30A3\u30C6\u30A3\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    Preload: 0
+    _id: 63612f57-d3b4-4597-a0a3-a4efbca1a618
+  - Clip: {fileID: 8300000, guid: 0b8a60e5582d5e649a391c6723586018, type: 3}
+    Key: Assets/Songs/Songs/Kill la Kill Opening 2.mp3
+    FolderPath: Songs\Songs\
+    Name: Kill la Kill Opening 2.mp3
+    Preload: 0
+    _id: da561e17-1623-4a6b-8d72-b02262da9f4f
+  - Clip: {fileID: 8300000, guid: 3bf9dd935ade9de43b4a012af54eddd6, type: 3}
+    Key: Assets/Songs/Songs/[Second] Gintama Opening 4.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Gintama Opening 4.mp3'
+    Preload: 0
+    _id: 1ed0231c-a67c-4f79-ab91-cb127e8d238c
+  - Clip: {fileID: 8300000, guid: 8bb230e98dad7b0468d9aa9687ae2dff, type: 3}
+    Key: Assets/Songs/Songs/Naruto Shippuden Opening 3 _ Blue Bird (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Naruto Shippuden Opening 3 _ Blue Bird (HD).mp3
+    Preload: 0
+    _id: d4c45eb2-e836-47ce-94d2-bdd698346f1d
+  - Clip: {fileID: 8300000, guid: 8bcd26e6a2085e346890c318d266c650, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C2\u30AF\u30FC\u30EB\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u7A7A\u306B\u6B4C\u3048\u3070\u300Damazarashi\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB2\u671F\u7B2C2\u30AF\u30FC\u30EB\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u30E0\u30FC\u30D3\u30FC\uFF0F\u300C\u7A7A\u306B\u6B4C\u3048\u3070\u300Damazarashi\uFF0F\u30D2\u30ED\u30A2\u30ABOP.mp3"
+    Preload: 0
+    _id: 892d2dd0-9cfd-4982-98ba-01707fdf076c
+  - Clip: {fileID: 8300000, guid: abeb226a1bc67d941af9ec02e886a512, type: 3}
+    Key: "Assets/Songs/Songs/Steins;Gate 0 Ending 2 \u300CWorld-Line\u300D by Asami
+      Imai-Makise Kurisu.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Steins;Gate 0 Ending 2 \u300CWorld-Line\u300D by Asami Imai-Makise Kurisu.mp3"
+    Preload: 0
+    _id: 40d58afc-5d14-4b77-8b08-87a2b7b14c56
+  - Clip: {fileID: 8300000, guid: cbbd6d38e36dc314e962dbfc930d068e, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 7 v1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 7 v1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: bf5f04e5-4a5a-4b67-939c-3b3b57eb5a9d
+  - Clip: {fileID: 8300000, guid: cbbf2a5abc759844e8a130120207f86a, type: 3}
+    Key: Assets/Sounds/CorrectAnswer.mp3
+    FolderPath: Sounds\
+    Name: CorrectAnswer.mp3
+    Preload: 0
+    _id: ac0b1f7d-6c9e-471e-8010-a56420c7254c
+  - Clip: {fileID: 8300000, guid: dbedbea2c0599f24ebeb85c21ffe6e1e, type: 3}
+    Key: "Assets/Songs/Songs/[Second] \u2022 Creditless \u2022 Masamune-kun's Revenge
+      Opening _ 4K _ 60FPS..mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] \u2022 Creditless \u2022 Masamune-kun's Revenge Opening _ 4K
+      _ 60FPS..mp3"
+    Preload: 0
+    _id: 3dd36e21-4751-4581-938e-0dcd6c45d653
+  - Clip: {fileID: 8300000, guid: fb2aaa3eed60c894ea9a1729172eb7a6, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Season 2 - Ending
+      2 _ Believe In You.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Season 2 - Ending 2 _ Believe
+      In You.mp3
+    Preload: 0
+    _id: 68ecba0f-06e9-41a1-875c-eaf06161efae
+  - Clip: {fileID: 8300000, guid: 0c4b29955921cf24ba5bea17cfd0076c, type: 3}
+    Key: "Assets/Songs/Songs/Mirai Nikki Opening 2 Full \u300CDead END\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Mirai Nikki Opening 2 Full \u300CDead END\u300D.mp3"
+    Preload: 0
+    _id: 4c9ca32e-8754-4fcb-8eab-2d0d4a12233d
+  - Clip: {fileID: 8300000, guid: 0cfd8e237b637494b9e92fa573c5198b, type: 3}
+    Key: Assets/Songs/Songs/GAMERS! - Opening _ 03 GAMERS! TV.mp3
+    FolderPath: Songs\Songs\
+    Name: GAMERS! - Opening _ 03 GAMERS! TV.mp3
+    Preload: 0
+    _id: 923e60f0-964e-4732-bea0-dbe9f02cd15e
+  - Clip: {fileID: 8300000, guid: 1c0a92a7a2ba91a42b02c3a32eff3d27, type: 3}
+    Key: "Assets/Songs/Songs/Oshi no Ko Opening (4k 60FPS)\u2503Creditless.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Oshi no Ko Opening (4k 60FPS)\u2503Creditless.mp3"
+    Preload: 0
+    _id: 9d91b93f-88fa-47ca-aa20-58bc92296819
+  - Clip: {fileID: 8300000, guid: 2c25155b9b29cde49ab0493e55fc2d0e, type: 3}
+    Key: "Assets/Songs/Songs/Re_ZERO \u2013Starting Life in Another World\u2013 -
+      Ending 1 (HD).mp3"
+    FolderPath: Songs\Songs\
+    Name: "Re_ZERO \u2013Starting Life in Another World\u2013 - Ending 1 (HD).mp3"
+    Preload: 0
+    _id: 7389e4d6-73ed-45a6-a36f-4a761c412e7a
+  - Clip: {fileID: 8300000, guid: 3c66796fbeb677348a77817889a8b2c0, type: 3}
+    Key: Assets/Songs/Songs/Vinland saga OP 1 (720p).mp3
+    FolderPath: Songs\Songs\
+    Name: Vinland saga OP 1 (720p).mp3
+    Preload: 0
+    _id: 71de8ce7-9f83-4b64-bf50-027ccb2f584b
+  - Clip: {fileID: 8300000, guid: 3c8b69c0dccbbb94480dc350eec5a34c, type: 3}
+    Key: Assets/Songs/Songs/Horimiya.mp3
+    FolderPath: Songs\Songs\
+    Name: Horimiya.mp3
+    Preload: 0
+    _id: 27661466-eb09-462d-bcdc-bf294507e905
+  - Clip: {fileID: 8300000, guid: 3c4e20fbcf0b0a74ea9b528fa87046d2, type: 3}
+    Key: Assets/Songs/Songs/The Melancholy of Haruhi Suzumiya Opening 2 - Super Driver
+      [Karaoke-Lyrics-Subbed].mp3
+    FolderPath: Songs\Songs\
+    Name: The Melancholy of Haruhi Suzumiya Opening 2 - Super Driver [Karaoke-Lyrics-Subbed].mp3
+    Preload: 0
+    _id: cd193f48-3d5f-4450-b5bb-7731ed73eece
+  - Clip: {fileID: 8300000, guid: 4c128700bf87d0c44a09db41a2c63509, type: 3}
+    Key: "Assets/Songs/Songs/\u300CCreditless\u300DKakegurui OP - Opening 1\u300CUHD
+      60FPS\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300CCreditless\u300DKakegurui OP - Opening 1\u300CUHD 60FPS\u300D.mp3"
+    Preload: 0
+    _id: ee808a30-182b-4cdb-9c30-a145c2580ec8
+  - Clip: {fileID: 8300000, guid: 4c23f5b52202882419e9e359b04a2e7e, type: 3}
+    Key: Assets/Songs/Songs/That Time I Got Reincarnated as a Slime Season 2 - Ending
+      _ STORYSEEKER.mp3
+    FolderPath: Songs\Songs\
+    Name: That Time I Got Reincarnated as a Slime Season 2 - Ending _ STORYSEEKER.mp3
+    Preload: 0
+    _id: bed9777d-4070-42cb-8b4f-6243fb6a2bc3
+  - Clip: {fileID: 8300000, guid: 5cd3a8b31d250084d95916a3e98abf11, type: 3}
+    Key: Assets/Songs/Songs/Black Clover - Opening 13 l Snow Man - Grandeur.mp3
+    FolderPath: Songs\Songs\
+    Name: Black Clover - Opening 13 l Snow Man - Grandeur.mp3
+    Preload: 0
+    _id: 55759e99-b457-45b9-aa8f-24fafadff6df
+  - Clip: {fileID: 8300000, guid: 5c29a826705bb2e4eb07de2bb62b74ad, type: 3}
+    Key: Assets/Songs/Songs/A Certain Scientific Railgun T - Opening (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: A Certain Scientific Railgun T - Opening (HD).mp3
+    Preload: 0
+    _id: af72aa26-b5e3-4bd7-8fb4-e7ebc310be8c
+  - Clip: {fileID: 8300000, guid: 6cd425a3acc546b4e9cae6d79e6557fc, type: 3}
+    Key: Assets/Songs/Songs/Owarimonogatari 2nd Season ED (Ougi ver) _SHIORI_ - ClariS.mp3
+    FolderPath: Songs\Songs\
+    Name: Owarimonogatari 2nd Season ED (Ougi ver) _SHIORI_ - ClariS.mp3
+    Preload: 0
+    _id: 30428fc1-0729-4d19-a5ca-d2be649e5bc0
+  - Clip: {fileID: 8300000, guid: 6c4a7045db8bda94799622cd0df861fc, type: 3}
+    Key: Assets/Songs/Songs/Kimetsu no Yaiba _ Opening 3 - Zankyou Zanka _ 4K Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Kimetsu no Yaiba _ Opening 3 - Zankyou Zanka _ 4K Creditless.mp3
+    Preload: 0
+    _id: 53e8ddfc-6ec8-4a20-a3b5-e32d5d884479
+  - Clip: {fileID: 8300000, guid: 6c7d326dc9a373e4fa4d45a9a1588d8c, type: 3}
+    Key: Assets/Songs/Songs/[Second] Rakudai Kishi no Cavalry - Opening (v2) Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Rakudai Kishi no Cavalry - Opening (v2) Creditless.mp3'
+    Preload: 0
+    _id: 1c271ac2-cd3a-4616-8fc1-318d2e0c3c7c
+  - Clip: {fileID: 8300000, guid: ac405fa8309cd064190b401ee5fd0309, type: 3}
+    Key: Assets/Songs/Songs/Parasyte Opening.mp3
+    FolderPath: Songs\Songs\
+    Name: Parasyte Opening.mp3
+    Preload: 0
+    _id: 2c5a444d-bec9-43f2-b9c2-21bef41ff369
+  - Clip: {fileID: 8300000, guid: ac6ffcd4d5adc41429d030d87761abab, type: 3}
+    Key: Assets/Songs/Songs/Haikyuu!! _ Opening 1 - Imagination _ 4K Creditless.mp3
+    FolderPath: Songs\Songs\
+    Name: Haikyuu!! _ Opening 1 - Imagination _ 4K Creditless.mp3
+    Preload: 0
+    _id: 422fd43c-a1d7-439c-9783-c46b78e754de
+  - Clip: {fileID: 8300000, guid: ccd8331b6fdbd6f448b1de2b0849acea, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B\u300C\u30E9\u30D6\u30FB\u30C9\u30E9\u30DE\u30C6\u30A3\u30C3\u30AF
+      feat. \u4F0A\u539F\u516D\u82B1\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u304B\u3050\u3084\u69D8\u306F\u544A\u3089\u305B\u305F\u3044\uFF5E\u5929\u624D\u305F\u3061\u306E\u604B\u611B\u982D\u8133\u6226\uFF5E\u300F\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF
+      \u266A\u9234\u6728\u96C5\u4E4B\u300C\u30E9\u30D6\u30FB\u30C9\u30E9\u30DE\u30C6\u30A3\u30C3\u30AF
+      feat. \u4F0A\u539F\u516D\u82B1\u300D.mp3"
+    Preload: 0
+    _id: ebcce965-6c15-4d2e-b1f4-d5b8da72d3ef
+  - Clip: {fileID: 8300000, guid: dcbcf6e6849729541908f6732189d32a, type: 3}
+    Key: Assets/Songs/Songs/Nanairo Symphony - Shigatsu wa Kimi no Uso [Your Lie
+      in April] OP #2 - HQ.mp3
+    FolderPath: Songs\Songs\
+    Name: Nanairo Symphony - Shigatsu wa Kimi no Uso [Your Lie in April] OP #2 -
+      HQ.mp3
+    Preload: 0
+    _id: 53ed9b1c-a67e-4ffd-8e1c-69f89995f2fd
+  - Clip: {fileID: 8300000, guid: dcccb3c99ee7ec0408ccfd6232d11f59, type: 3}
+    Key: "Assets/Songs/Songs/\u3010\u30BB\u30EC\u30D7\u30ED\u3011TV\u30A2\u30CB\u30E1\u300CSELECTION
+      PROJECT\u300DOP\u30C6\u30FC\u30DE\u300CGlorious Days\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u3010\u30BB\u30EC\u30D7\u30ED\u3011TV\u30A2\u30CB\u30E1\u300CSELECTION
+      PROJECT\u300DOP\u30C6\u30FC\u30DE\u300CGlorious Days\u300D.mp3"
+    Preload: 0
+    _id: 72df86a6-b3fc-4551-a39a-340ec4a5963a
+  - Clip: {fileID: 8300000, guid: dc5fcc2d62de8bd4e896189ed957f6db, type: 3}
+    Key: Assets/Songs/Songs/Angel Beats Ed Full HD w-Lyrics Brave song.mp3
+    FolderPath: Songs\Songs\
+    Name: Angel Beats Ed Full HD w-Lyrics Brave song.mp3
+    Preload: 0
+    _id: 404337a8-7b57-4215-b8f4-604d8b655dd8
+  - Clip: {fileID: 8300000, guid: ecae65804066aaf4dbd71f95616ed032, type: 3}
+    Key: Assets/Songs/Songs/Rent-a-Girlfriend - Opening _ Centimeter.mp3
+    FolderPath: Songs\Songs\
+    Name: Rent-a-Girlfriend - Opening _ Centimeter.mp3
+    Preload: 0
+    _id: e0d2ff02-b668-421f-bc2a-f6537a271689
+  - Clip: {fileID: 8300000, guid: fc61be65cb69ef04bb16b73327f40ad8, type: 3}
+    Key: Assets/Songs/Songs/[Second] The World's Finest Assassin - Opening _ Dark
+      Seeks Light.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] The World''s Finest Assassin - Opening _ Dark Seeks Light.mp3'
+    Preload: 0
+    _id: 5a0fe0f3-24a2-45d5-8f4d-7b19e5d754ec
+  - Clip: {fileID: 8300000, guid: fce69dd25eaea6a4db2a8ccb87679156, type: 3}
+    Key: Assets/Songs/Songs/Aharen-san wa Hakarenai - Opening _ Hanarenai Kyori.mp3
+    FolderPath: Songs\Songs\
+    Name: Aharen-san wa Hakarenai - Opening _ Hanarenai Kyori.mp3
+    Preload: 0
+    _id: 85c43112-463f-4560-8523-0818dde7b934
+  - Clip: {fileID: 8300000, guid: fc29247061699b34c9ddfe55ce7cc07d, type: 3}
+    Key: Assets/Songs/Songs/Mirai Nikki op 1 full.mp3
+    FolderPath: Songs\Songs\
+    Name: Mirai Nikki op 1 full.mp3
+    Preload: 0
+    _id: 2694be87-070d-4bd0-842e-a17c2904f9c1
+  - Clip: {fileID: 8300000, guid: 0d019bd8848fa9f4dab8ddc109563fc1, type: 3}
+    Key: Assets/Songs/Songs/[Second] Kuroko's Basketball - Opening 1 _ Can Do.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Kuroko''s Basketball - Opening 1 _ Can Do.mp3'
+    Preload: 0
+    _id: 15479e2d-d3a1-4e82-9e94-fae0c293b767
+  - Clip: {fileID: 8300000, guid: 0d55d2e8ae1e8334f9c3b5620676e75d, type: 3}
+    Key: Assets/Songs/Songs/To aru Majutsu no Index OP 1 HD[1080][Creditless].mp3
+    FolderPath: Songs\Songs\
+    Name: To aru Majutsu no Index OP 1 HD[1080][Creditless].mp3
+    Preload: 0
+    _id: a7afc872-6aa9-402e-aa09-07089d9c53b9
+  - Clip: {fileID: 8300000, guid: 3d1c9103bbb81bd439e2664e9d257208, type: 3}
+    Key: Assets/Songs/Songs/Sword Art Online   Ignite OP Lyrics HD.mp3
+    FolderPath: Songs\Songs\
+    Name: Sword Art Online   Ignite OP Lyrics HD.mp3
+    Preload: 0
+    _id: 14d04b9c-d0a4-41d3-b520-55f1a86cef16
+  - Clip: {fileID: 8300000, guid: 4d97b57542821a44ab3c384402d234b5, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300C\u7D04\u675F\u306E\u30CD\u30D0\u30FC\u30E9\u30F3\u30C9\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300C\u7D04\u675F\u306E\u30CD\u30D0\u30FC\u30E9\u30F3\u30C9\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0.mp3"
+    Preload: 0
+    _id: 43447856-6c62-436a-803a-c14c0e65eb09
+  - Clip: {fileID: 8300000, guid: 8d65947204ec9634890d67ef2ce7c43d, type: 3}
+    Key: Assets/Songs/Songs/KonoSuba - Opening 1 [4K 60FPS _ Creditless _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: KonoSuba - Opening 1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 45b8f1ab-9f76-45a5-b063-86843072dfc5
+  - Clip: {fileID: 8300000, guid: 8dbeadb26d10e8941b402f3d6bcb65c8, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u5E72\u7269\u59B9\uFF01\u3046\u307E\u308B\u3061\u3083\u3093R\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u6620\u50CF\u300C\u306B\u3081\u3093\u305B\u3044\u2606\u30A6\u30E9\u30AA\u30E2\u30C6\u30E9\u30A4\u30D5\uFF01\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u5E72\u7269\u59B9\uFF01\u3046\u307E\u308B\u3061\u3083\u3093R\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u6620\u50CF\u300C\u306B\u3081\u3093\u305B\u3044\u2606\u30A6\u30E9\u30AA\u30E2\u30C6\u30E9\u30A4\u30D5\uFF01\u300D.mp3"
+    Preload: 0
+    _id: b1aab840-d7d6-4b5d-9f94-1709bf5f9ec5
+  - Clip: {fileID: 8300000, guid: 9db2c6c0d6965cc4fa860a33ab0b5cf2, type: 3}
+    Key: Assets/Songs/Songs/Black Clover ENDING 1 _ Aoi Honoo (HD).mp3
+    FolderPath: Songs\Songs\
+    Name: Black Clover ENDING 1 _ Aoi Honoo (HD).mp3
+    Preload: 0
+    _id: 5e1911a3-f6c1-4a72-82ec-b486689c704e
+  - Clip: {fileID: 8300000, guid: bd5d1be7bfd5c484bb8af4f2331b27f5, type: 3}
+    Key: Assets/Songs/Songs/Charlotte Ending 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Charlotte Ending 1.mp3
+    Preload: 0
+    _id: 8d61f651-c1a2-470f-86cb-0d1262f1f425
+  - Clip: {fileID: 8300000, guid: cd50039ae945df045ab2556d44502f72, type: 3}
+    Key: Assets/Songs/Songs/Fire Force - Opening _ Inferno.mp3
+    FolderPath: Songs\Songs\
+    Name: Fire Force - Opening _ Inferno.mp3
+    Preload: 0
+    _id: 65553186-af9c-4676-b429-d8f212064915
+  - Clip: {fileID: 8300000, guid: cd3736073e7303f4794cf1e6394f0b5b, type: 3}
+    Key: Assets/Songs/Songs/[Second] GATE - Opening _ Gate (Sore wa Akatsuki no You
+      ni).mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] GATE - Opening _ Gate (Sore wa Akatsuki no You ni).mp3'
+    Preload: 0
+    _id: f78cfa37-20f6-4d30-88e6-8ab0237351c5
+  - Clip: {fileID: 8300000, guid: cd1b770559e5d9d45899c6f53b439203, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u30C1\u30A7\u30F3\u30BD\u30FC\u30DE\u30F3\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0
+      - CHAINSAW MAN  Opening\u2502\u7C73\u6D25\u7384\u5E2B \u300CKICK BACK\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u30C1\u30A7\u30F3\u30BD\u30FC\u30DE\u30F3\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0
+      - CHAINSAW MAN  Opening\u2502\u7C73\u6D25\u7384\u5E2B \u300CKICK BACK\u300D.mp3"
+    Preload: 0
+    _id: 6f14350d-34f8-45e2-a0fc-ebdd70fb9daa
+  - Clip: {fileID: 8300000, guid: ed5630489e5d28a4aaa15e358ab7da3b, type: 3}
+    Key: Assets/Songs/Songs/Miss Kobayashi's Dragon Maid - Opening _ Blue Sky Rhapsody.mp3
+    FolderPath: Songs\Songs\
+    Name: Miss Kobayashi's Dragon Maid - Opening _ Blue Sky Rhapsody.mp3
+    Preload: 0
+    _id: 625d6aa8-badb-4474-bc7c-47dbd164c726
+  - Clip: {fileID: 8300000, guid: ed0ae75d94f0f9e4b9befd085604ae0d, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300C\u305D\u306E\u7740\u305B\u66FF\u3048\u4EBA\u5F62\u306F\u604B\u3092\u3059\u308B\u300D\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300C\u305D\u306E\u7740\u305B\u66FF\u3048\u4EBA\u5F62\u306F\u604B\u3092\u3059\u308B\u300D\u30CE\u30F3\u30C6\u30ED\u30C3\u30D7\u30AA\u30FC\u30D7\u30CB\u30F3\u30B0\u6620\u50CF.mp3"
+    Preload: 0
+    _id: dcb353bd-971f-4a5d-9b34-984ba1125072
+  - Clip: {fileID: 8300000, guid: fdd2f4c1c67dac846bb99ff1aff9b2a8, type: 3}
+    Key: Assets/Songs/Songs/DON'T TOY WITH ME, MISS NAGATORO - Opening _ EASY LOVE.mp3
+    FolderPath: Songs\Songs\
+    Name: DON'T TOY WITH ME, MISS NAGATORO - Opening _ EASY LOVE.mp3
+    Preload: 0
+    _id: f844c960-dc4a-41ed-a359-3401eb1543c7
+  - Clip: {fileID: 8300000, guid: fd84c7bbc9916694da4f5e630fd8f48e, type: 3}
+    Key: Assets/Songs/Songs/[Second] GTO the Animation - Opening 1 _ Driver's High.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] GTO the Animation - Opening 1 _ Driver''s High.mp3'
+    Preload: 0
+    _id: eab02baa-4be1-4ac5-8573-f2643b0e0769
+  - Clip: {fileID: 8300000, guid: fd9727e0228fa0b42bbb7203360b36df, type: 3}
+    Key: Assets/Songs/Songs/[Second] Yuri!!! on Ice Opening ''History Maker'' DEAN
+      FUJIOKA.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Yuri!!! on Ice Opening ''''History Maker'''' DEAN FUJIOKA.mp3'
+    Preload: 0
+    _id: 1f527c3e-3286-44cc-b083-307cb196861b
+  - Clip: {fileID: 8300000, guid: fd1dfd90a00544e459b7fe5562351f7e, type: 3}
+    Key: Assets/Songs/Songs/[Second] Yamada-kun and the Seven Witches OPENING _ WEAVER.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Yamada-kun and the Seven Witches OPENING _ WEAVER.mp3'
+    Preload: 0
+    _id: 0d5a9156-a1ea-4f31-9502-f219355de599
+  - Clip: {fileID: 8300000, guid: 0edca13a9f187ef4db88a30f4107e46d, type: 3}
+    Key: Assets/Songs/Songs/[Second] Clannad Ending w- Subtitles.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Clannad Ending w- Subtitles.mp3'
+    Preload: 0
+    _id: 3543d58b-a147-4003-9b4b-f1417049f06f
+  - Clip: {fileID: 8300000, guid: 1e315e1a248c9a540bc302052830b4eb, type: 3}
+    Key: Assets/Songs/Songs/[Second] Danmachi Opening 1.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Danmachi Opening 1.mp3'
+    Preload: 0
+    _id: 8c6f8ca4-c6bb-44fe-b2e5-a8d853cca4a9
+  - Clip: {fileID: 8300000, guid: 1ea335f456a3da648af39b21930b2d54, type: 3}
+    Key: Assets/Songs/Songs/Noragami Aragoto - Official Opening - Kyouran Hey Kids!!.mp3
+    FolderPath: Songs\Songs\
+    Name: Noragami Aragoto - Official Opening - Kyouran Hey Kids!!.mp3
+    Preload: 0
+    _id: c99ae008-8815-4913-bba6-f6fea85480df
+  - Clip: {fileID: 8300000, guid: 1eeb0b58d18ffd840beee11f6e27d839, type: 3}
+    Key: Assets/Songs/Songs/Code Geass - Official _ COLORS.mp3
+    FolderPath: Songs\Songs\
+    Name: Code Geass - Official _ COLORS.mp3
+    Preload: 0
+    _id: 2f9b3b73-fcb4-47b6-ac36-2b0df0e16908
+  - Clip: {fileID: 8300000, guid: 1e3d1682931e6884698f8e7f68cd8200, type: 3}
+    Key: Assets/Songs/Songs/Noragami Ending 1 Full.mp3
+    FolderPath: Songs\Songs\
+    Name: Noragami Ending 1 Full.mp3
+    Preload: 0
+    _id: b7e0b281-f03e-45cc-bcaf-86909cf4697f
+  - Clip: {fileID: 8300000, guid: 2e661d3e3f35b9b4d97d6eb17ef96295, type: 3}
+    Key: Assets/Songs/Songs/Rent-a-Girlfriend - Ending _ Kokukahu Bungee Jumping.mp3
+    FolderPath: Songs\Songs\
+    Name: Rent-a-Girlfriend - Ending _ Kokukahu Bungee Jumping.mp3
+    Preload: 0
+    _id: aafe8b64-6df4-4939-a18e-730625f7df9c
+  - Clip: {fileID: 8300000, guid: 3e209b2f44ee94f4faadf2b371f1a038, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB3\u671F\u7B2C1\u30AF\u30FC\u30EB\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u300CODD
+      FUTURE\u300DUVERworld.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u50D5\u306E\u30D2\u30FC\u30ED\u30FC\u30A2\u30AB\u30C7\u30DF\u30A2\u300F\u30D2\u30ED\u30A2\u30AB3\u671F\u7B2C1\u30AF\u30FC\u30EB\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u300CODD
+      FUTURE\u300DUVERworld.mp3"
+    Preload: 0
+    _id: dc08f18e-a571-4ef1-98e9-ed675c54600f
+  - Clip: {fileID: 8300000, guid: 3e42406ac5fd08244b3659fd386dc8b0, type: 3}
+    Key: Assets/Songs/Songs/Kiminosei.mp3
+    FolderPath: Songs\Songs\
+    Name: Kiminosei.mp3
+    Preload: 0
+    _id: cc02ccde-4b36-40f6-9fba-9ae68209f27c
+  - Clip: {fileID: 8300000, guid: 4e27a93b546dfd847b6b48b8e8769c5f, type: 3}
+    Key: Assets/Songs/Songs/Made in Abyss Opening.mp3
+    FolderPath: Songs\Songs\
+    Name: Made in Abyss Opening.mp3
+    Preload: 0
+    _id: a51797c1-c494-4471-9af1-c6c4d159c4fa
+  - Clip: {fileID: 8300000, guid: 5e769189a7e1bd54cbb6588abdab4334, type: 3}
+    Key: Assets/Songs/Songs/Assassination Classroom Season 2 Opening 2_ Bye-bye Yesterday.mp3
+    FolderPath: Songs\Songs\
+    Name: Assassination Classroom Season 2 Opening 2_ Bye-bye Yesterday.mp3
+    Preload: 0
+    _id: f279fb1c-5f4b-4944-bed9-b6dab4e85c3b
+  - Clip: {fileID: 8300000, guid: 5e4d1762c0e48ae47a0911ada4877a1c, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0F\u7B2C2\u30AF\u30FC\u30EBOP\u30C6\u30FC\u30DE\uFF1AWho-ya
+      Extended\u300CVIVID VICE\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0F\u7B2C2\u30AF\u30FC\u30EBOP\u30C6\u30FC\u30DE\uFF1AWho-ya
+      Extended\u300CVIVID VICE\u300D.mp3"
+    Preload: 0
+    _id: c05abe7e-21ec-42f3-b489-3a93bf3107ef
+  - Clip: {fileID: 8300000, guid: 6ed1f22ad43686a41a7df4fd386aa6bc, type: 3}
+    Key: "Assets/Songs/Songs/Zoku Owarimonogatari  ED  \u300CAzure \u300D  English
+      Sub.mp3"
+    FolderPath: Songs\Songs\
+    Name: "Zoku Owarimonogatari  ED  \u300CAzure \u300D  English Sub.mp3"
+    Preload: 0
+    _id: 43d1a225-0de7-47a4-a459-9cd94cfb8e58
+  - Clip: {fileID: 8300000, guid: 7e2bbe27833e7f04a961a3386b556d09, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 3f212618-a4ed-4aac-8fe3-8f4c0ed69582
+  - Clip: {fileID: 8300000, guid: 9e99ad260ab09e84daa4864a8f58d635, type: 3}
+    Key: Assets/Songs/Songs/Fate-Zero Opening 2.mp3
+    FolderPath: Songs\Songs\
+    Name: Fate-Zero Opening 2.mp3
+    Preload: 0
+    _id: 4d988ebc-af72-4705-a595-61e60a0cde09
+  - Clip: {fileID: 8300000, guid: 9edc5a931b5bf1045ae26017397644dd, type: 3}
+    Key: Assets/Songs/Songs/The Quintessential Quintuplets 2 - Opening _ Gotobun
+      no Katachi.mp3
+    FolderPath: Songs\Songs\
+    Name: The Quintessential Quintuplets 2 - Opening _ Gotobun no Katachi.mp3
+    Preload: 0
+    _id: fc2f4572-e880-4ae4-97ae-fcf9751f37da
+  - Clip: {fileID: 8300000, guid: aea211fc47be0ad4db038ce0c5d53fee, type: 3}
+    Key: Assets/Songs/Songs/KonoSuba - Ending 1 [4K 60FPS _ Creditless _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: KonoSuba - Ending 1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 2b120069-a9fb-4048-89b3-d7afd09b1360
+  - Clip: {fileID: 8300000, guid: aea7e0b97af32a2468a5718bef2f3364, type: 3}
+    Key: Assets/Songs/Songs/[Second] So I'm a Spider, So What_ - Opening _ keep weaving
+      your spider way.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] So I''m a Spider, So What_ - Opening _ keep weaving your spider
+      way.mp3'
+    Preload: 0
+    _id: 48bda67f-9bcc-4d2b-a4bd-06f3eb4710f9
+  - Clip: {fileID: 8300000, guid: be1a2df6fbbbc1f4a9e7162d04f25427, type: 3}
+    Key: "Assets/Songs/Songs/\u300E\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\uFF0FOP\u30C6\u30FC\u30DE\uFF1AYOASOBI\u300C\u52C7\u8005\u300D\uFF0F\u6BCE\u9031\u91D1\u66DC\u3088\u308B11\u6642\u653E\u9001.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u300E\u846C\u9001\u306E\u30D5\u30EA\u30FC\u30EC\u30F3\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\uFF0FOP\u30C6\u30FC\u30DE\uFF1AYOASOBI\u300C\u52C7\u8005\u300D\uFF0F\u6BCE\u9031\u91D1\u66DC\u3088\u308B11\u6642\u653E\u9001.mp3"
+    Preload: 0
+    _id: 1650857c-f168-456f-bec3-c8cd91061bd5
+  - Clip: {fileID: 8300000, guid: be3c305fb61e7c943854d5400170088b, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8ED\u30E0\u30FC\u30D3\u30FC\uFF0FED\u30C6\u30FC\u30DE\uFF1AALI\u300CLOST
+      IN PARADISE feat. AKLO\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8ED\u30E0\u30FC\u30D3\u30FC\uFF0FED\u30C6\u30FC\u30DE\uFF1AALI\u300CLOST
+      IN PARADISE feat. AKLO\u300D.mp3"
+    Preload: 0
+    _id: ea6e3b0d-f4a9-4434-b4f7-619945c8b62d
+  - Clip: {fileID: 8300000, guid: befd8ef673584704c9020de9b1981950, type: 3}
+    Key: Assets/Songs/Songs/Black Clover - Opening 1 _ Haruka Mirai.mp3
+    FolderPath: Songs\Songs\
+    Name: Black Clover - Opening 1 _ Haruka Mirai.mp3
+    Preload: 0
+    _id: ccedebf0-f891-45a9-9c42-e2797bdfbafc
+  - Clip: {fileID: 8300000, guid: def19abf7096a854f84429bfa1be2195, type: 3}
+    Key: Assets/Songs/Songs/Gabriel DropOut - Opening _ Gabriel Dropkick.mp3
+    FolderPath: Songs\Songs\
+    Name: Gabriel DropOut - Opening _ Gabriel Dropkick.mp3
+    Preload: 0
+    _id: b5fb598f-d537-4079-b3d2-414e380a4855
+  - Clip: {fileID: 8300000, guid: ded8be6bc6d8c8147a05be25ea4aeffe, type: 3}
+    Key: Assets/Songs/Songs/Hunter X Hunter Opening 1.mp3
+    FolderPath: Songs\Songs\
+    Name: Hunter X Hunter Opening 1.mp3
+    Preload: 0
+    _id: cba5364a-4261-4bb5-9fb2-006d6465005b
+  - Clip: {fileID: 8300000, guid: eef5a968f13505f4d9ae53ea4e32a1ff, type: 3}
+    Key: "Assets/Songs/Songs/\u30B7\u30E5\u30BF\u30A4\u30F3\u30BA\u30FB\u30B2\u30FC\u30C8
+      ED \u300C\u523B\u53F8\u30EB\u5341\u4E8C\u30CE\u76DF\u7D04\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u30B7\u30E5\u30BF\u30A4\u30F3\u30BA\u30FB\u30B2\u30FC\u30C8 ED \u300C\u523B\u53F8\u30EB\u5341\u4E8C\u30CE\u76DF\u7D04\u300D.mp3"
+    Preload: 0
+    _id: b5cd8fb1-d8dc-4115-ae49-f222aada9911
+  - Clip: {fileID: 8300000, guid: fe3a1302ce1f79445a122618159f4d26, type: 3}
+    Key: Assets/Songs/Songs/Rent-a-Girlfriend - Opening 2 _ Himitsu Koi-Gokoro.mp3
+    FolderPath: Songs\Songs\
+    Name: Rent-a-Girlfriend - Opening 2 _ Himitsu Koi-Gokoro.mp3
+    Preload: 0
+    _id: d45ea150-6911-440e-ad02-8ab4608912a3
+  - Clip: {fileID: 8300000, guid: feec7b109f8c60245956a972c9e505c5, type: 3}
+    Key: "Assets/Songs/Songs/\u3010\u30BB\u30EC\u30D7\u30ED\u3011TV\u30A2\u30CB\u30E1\u300CSELECTION
+      PROJECT\u300DED\u30C6\u30FC\u30DE\u300COnly one yell\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "\u3010\u30BB\u30EC\u30D7\u30ED\u3011TV\u30A2\u30CB\u30E1\u300CSELECTION
+      PROJECT\u300DED\u30C6\u30FC\u30DE\u300COnly one yell\u300D.mp3"
+    Preload: 0
+    _id: dc9460aa-6517-4a95-8ccf-b9905f76f665
+  - Clip: {fileID: 8300000, guid: 0fe54ce3e4b9e224a887d5801e622d03, type: 3}
+    Key: Assets/Songs/Songs/[Second] wolf and.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] wolf and.mp3'
+    Preload: 0
+    _id: 428f3b8f-38e6-466f-9916-bb13b2d54683
+  - Clip: {fileID: 8300000, guid: 2fd5804800d2fe14a8049e89ab50d180, type: 3}
+    Key: Assets/Songs/Songs/Black Bullet - OP - Opening.mp3
+    FolderPath: Songs\Songs\
+    Name: Black Bullet - OP - Opening.mp3
+    Preload: 0
+    _id: c30a7171-d282-4027-a198-27a212a4374b
+  - Clip: {fileID: 8300000, guid: 2f075f743831f574cb916dc4e13fa388, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1AEve\u300C\u5EFB\u5EFB\u5947\u8B5A\u300D.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1AEve\u300C\u5EFB\u5EFB\u5947\u8B5A\u300D.mp3"
+    Preload: 0
+    _id: 957ce927-3648-45f7-80fe-b7bd1245fac1
+  - Clip: {fileID: 8300000, guid: 2f696f37afffc59488e42cec1ba1026b, type: 3}
+    Key: Assets/Songs/Songs/Re_ZERO -Starting Life in Another World- Season 2 - Opening
+      2 _ Long Shot.mp3
+    FolderPath: Songs\Songs\
+    Name: Re_ZERO -Starting Life in Another World- Season 2 - Opening 2 _ Long Shot.mp3
+    Preload: 0
+    _id: e6441255-c5d5-44f2-945a-62d468c670ee
+  - Clip: {fileID: 8300000, guid: 3fc38058e0262d54bbf858f094906a25, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Ending 1 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Ending 1 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 186344b6-282b-436c-9928-1f404520a5cb
+  - Clip: {fileID: 8300000, guid: 3fa7122d80d39f544af3826107d4d445, type: 3}
+    Key: Assets/Plugins/Audio/Examples/Sounds/Example music.mp3
+    FolderPath: Plugins\Audio\Examples\Sounds\
+    Name: Example music.mp3
+    Preload: 0
+    _id: 8e8d5bae-f9dc-42d3-96c9-e2139e3ea8d3
+  - Clip: {fileID: 8300000, guid: 3f4c4e6235ff8fd4ead6f0a3ef02ae09, type: 3}
+    Key: Assets/Songs/Songs/ED Oregairu Season 2- Yahari Ore no Seishun Love Come
+      wa Machigatteiru. Zoku.mp3
+    FolderPath: Songs\Songs\
+    Name: ED Oregairu Season 2- Yahari Ore no Seishun Love Come wa Machigatteiru.
+      Zoku.mp3
+    Preload: 0
+    _id: 4a99245e-a450-4f0c-b927-12d729fa0bd2
+  - Clip: {fileID: 8300000, guid: 4fd9eb3780f47554da0f8a98b74d1304, type: 3}
+    Key: Assets/Songs/Songs/Mob Psycho 100 - Opening _ 99.mp3
+    FolderPath: Songs\Songs\
+    Name: Mob Psycho 100 - Opening _ 99.mp3
+    Preload: 0
+    _id: 1f1c55cf-5ffa-46c1-a300-b5ea5398cdab
+  - Clip: {fileID: 8300000, guid: 4fad698ca446e404ca8691c3f543ae15, type: 3}
+    Key: Assets/Songs/Songs/[Second] Hellsing [OP].mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Hellsing [OP].mp3'
+    Preload: 0
+    _id: b7b2eaee-cdb2-4b25-8b12-04d62c48c12b
+  - Clip: {fileID: 8300000, guid: 5fa4726b2d3adc549a75dac9acf64878, type: 3}
+    Key: Assets/Songs/Songs/Part 1 OPENING _ BLEACH_ Thousand Year-Blood War _ VIZ.mp3
+    FolderPath: Songs\Songs\
+    Name: Part 1 OPENING _ BLEACH_ Thousand Year-Blood War _ VIZ.mp3
+    Preload: 0
+    _id: 6a381092-f52e-4f56-ba52-1da4187dce10
+  - Clip: {fileID: 8300000, guid: 5fe6adbbbdccfe74b8f9e730752922de, type: 3}
+    Key: Assets/Songs/Songs/That Time I Got Reincarnated as a Slime Season 2 - Opening
+      _ Storytelling.mp3
+    FolderPath: Songs\Songs\
+    Name: That Time I Got Reincarnated as a Slime Season 2 - Opening _ Storytelling.mp3
+    Preload: 0
+    _id: f432b2b7-b4c8-47dc-87f0-965357052a81
+  - Clip: {fileID: 8300000, guid: 6fc4619c763bcdb48a5720142cda2d3d, type: 3}
+    Key: Assets/Songs/Songs/[Second] Girlfriend, Girlfriend - Ending _ Pinky Hook.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Girlfriend, Girlfriend - Ending _ Pinky Hook.mp3'
+    Preload: 0
+    _id: 5b8a0624-c228-479a-bb28-690b43a39ebd
+  - Clip: {fileID: 8300000, guid: 6f57f7b5d3ede8744a6e5e01e549a03b, type: 3}
+    Key: "Assets/Songs/Songs/[Second] Black Lagoon \u2013 Opening Theme \u2013 Red
+      Fraction.mp3"
+    FolderPath: Songs\Songs\
+    Name: "[Second] Black Lagoon \u2013 Opening Theme \u2013 Red Fraction.mp3"
+    Preload: 0
+    _id: 2200a710-9dc0-4a8d-be6e-15130c3be18a
+  - Clip: {fileID: 8300000, guid: 9f68856aee14e544c8546574c38f889d, type: 3}
+    Key: Assets/Songs/Songs/VINLAND SAGA SEASON 2 - Opening Song 2 _ Paradox by Survive
+      Said The Prophet.mp3
+    FolderPath: Songs\Songs\
+    Name: VINLAND SAGA SEASON 2 - Opening Song 2 _ Paradox by Survive Said The Prophet.mp3
+    Preload: 0
+    _id: ac4c2d07-d646-453f-a77a-1411dc445cbe
+  - Clip: {fileID: 8300000, guid: af003e72d759e2a41b96682a9a6e8c67, type: 3}
+    Key: "Assets/Songs/Songs/TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u7B2C2\u671F\u300C\u61D0\u7389\u30FB\u7389\u6298\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u30AD\u30BF\u30CB\u30BF\u30C4\u30E4\u300C\u9752\u306E\u3059\u307F\u304B\u300D\uFF5C\u6BCE\u9031\u6728\u66DC\u591C11\u664256\u5206\uFF5EMBS-TBS\u7CFB\u5217\u5168\u56FD28\u5C40\u306B\u3066\u653E\u9001\u4E2D!!.mp3"
+    FolderPath: Songs\Songs\
+    Name: "TV\u30A2\u30CB\u30E1\u300E\u546A\u8853\u5EFB\u6226\u300F\u7B2C2\u671F\u300C\u61D0\u7389\u30FB\u7389\u6298\u300D\u30CE\u30F3\u30AF\u30EC\u30B8\u30C3\u30C8OP\u30E0\u30FC\u30D3\u30FC\uFF0FOP\u30C6\u30FC\u30DE\uFF1A\u30AD\u30BF\u30CB\u30BF\u30C4\u30E4\u300C\u9752\u306E\u3059\u307F\u304B\u300D\uFF5C\u6BCE\u9031\u6728\u66DC\u591C11\u664256\u5206\uFF5EMBS-TBS\u7CFB\u5217\u5168\u56FD28\u5C40\u306B\u3066\u653E\u9001\u4E2D!!.mp3"
+    Preload: 0
+    _id: 4bcac353-300c-402e-b365-e9ace938ce11
+  - Clip: {fileID: 8300000, guid: bfdc39135295c914291f5c5f7fde4107, type: 3}
+    Key: Assets/Songs/Songs/KonoSuba - Ending 2 [4K 60FPS _ Creditless _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: KonoSuba - Ending 2 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: d33f15cf-45b1-4b56-872c-1b09aaa23c33
+  - Clip: {fileID: 8300000, guid: cf2f65e9c5c29454aa8a73d177662179, type: 3}
+    Key: Assets/Songs/Songs/JoJo's Bizarre Adventure - Opening 3 [4K 60FPS _ Creditless
+      _ CC].mp3
+    FolderPath: Songs\Songs\
+    Name: JoJo's Bizarre Adventure - Opening 3 [4K 60FPS _ Creditless _ CC].mp3
+    Preload: 0
+    _id: 4d39f941-78d0-4e0e-be39-324750f236f2
+  - Clip: {fileID: 8300000, guid: dfade4dcd07a8834c88090f5227b0251, type: 3}
+    Key: Assets/Songs/Songs/[Second] Danganronpa The Animation - Ending.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Danganronpa The Animation - Ending.mp3'
+    Preload: 0
+    _id: 71899977-9784-4361-a71f-06c574f4cfec
+  - Clip: {fileID: 8300000, guid: efac35485cb374e4093f0029586a6c4f, type: 3}
+    Key: Assets/Songs/Songs/[Second] Girlfriend, Girlfriend - Opening _ Fuzaketenai
+      ze.mp3
+    FolderPath: Songs\Songs\
+    Name: '[Second] Girlfriend, Girlfriend - Opening _ Fuzaketenai ze.mp3'
+    Preload: 0
+    _id: c48f12c4-935d-47b6-812f-478d4bc714de

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f54501074904252498a6a40c05de5048, type: 3}
+  m_Name: New Song 276
+  m_EditorClassIdentifier: 
+  songName: Assets/Songs/Songs/Nisekoi S2 Opening [HD].mp3
+  songNameInGame: "\u041F\u0440\u0438\u0442\u0432\u043E\u0440\u043D\u0430\u044F \u043B\u044E\u0431\u043E\u0432\u044C"
+  difficulty: 0
+  music: {fileID: 8300000, guid: 980f8711106f67c44b6fa287eda8ff2b, type: 3}
